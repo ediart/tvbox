@@ -186,7 +186,13 @@
 				"type": "rect",
 				"ratio": 1.5
 			}
-		}
+		},
+		{
+        "name": "ok影视手机版",
+        "url": "http://xw.123234567.xyz:60255/jiduo/OKSJ64.apk",
+        "icon": "https://d.dayeapp.net/y.jpg",
+        "version": "py-v8a"
+        }
 	],
 	"lives": [{
 			"name": "冰茶",
