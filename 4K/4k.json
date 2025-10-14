@@ -1,5 +1,5 @@
 ﻿{
-	"spider": "./spider.jar",
+	"spider": "./spider.jar;md5;771fdc862c1ee37e6d13c0b7fb840e78",
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 	"sites": [{
 			"key": "lf_js_search",
@@ -403,4 +403,5 @@
 	"ads": [
 		"static-mozai.4gtv.tv"
 	]
+
 }
