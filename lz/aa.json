@@ -55,16 +55,11 @@
 			},
 			"changeable": 1
 		},
-		{
-			"key": "苹果jar",
-			"name": "苹果jar",
-			"type": 3,
-			"api": "csp_PingGuo",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
+        {
+			"key": "pingguo",
+			"name": "小苹果",
+			"type": 4,
+			"api": "http://zhangqun66.com/pingguo.php"
 		},
 		{
 			"key": "旺旺短剧",
