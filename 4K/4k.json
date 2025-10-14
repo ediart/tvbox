@@ -16,39 +16,39 @@
 			"key": "腾讯视频",
 			"name": "腾讯｜4K",
 			"type": 3,
-			"api": "./drpy2.min.js",
-			"ext": "./腾讯视频.js"
+			"api": "./lib/drpy2.min.js",
+			"ext": "./lib/腾讯视频.js"
 		},
 		{
 			"key": "芒果视频",
 			"name": "芒果｜4K",
 			"type": 3,
-			"api": "./drpy2.min.js",
-			"ext": "./芒果视频.js"
+			"api": "./lib/drpy2.min.js",
+			"ext": "./lib/芒果视频.js"
 		},
 		{
 			"key": "优酷视频",
 			"name": "优酷｜1K",
 			"type": 3,
-			"api": "./drpy2.min.js",
-			"ext": "./优酷视频.js"
+			"api": "./lib/drpy2.min.js",
+			"ext": "./lib/优酷视频.js"
 		},
 		{
 			"key": "爱奇艺",
 			"name": "爱奇艺｜2K",
 			"type": 3,
-			"api": "./drpy2.min.js",
-			"ext": "./爱奇艺.js"
+			"api": "./lib/drpy2.min.js",
+			"ext": "./lib/爱奇艺.js"
 		},
 		{
 			"key": "哔哩视频JS",
 			"name": "哔哩哔哩 | 4K",
 			"type": 3,
-			"api": "./drpy2.min.js",
+			"api": "./lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./哔哩视频.js"
+			"ext": "./lib/哔哩视频.js"
 		},
 		{
 			"key": "wyzz",
@@ -408,4 +408,5 @@
 	]
 
 }
+
 
