@@ -65,10 +65,7 @@
 			"ext": "YUhSMGNEb3ZMM2R3TG5kNVlUWXVZMjl0TDJGd2FTNXdhSEEvYzJsMFpUMTNlVzluSXlNamQzbHZadz09"
 		}
 	],
-	"parses": [
-		{"name":"自动解析","type":3,"url":"Demo"},
-        {"name":"超人解析","type":3,"url":"Web"},
-		{
+	"parses": [{
 		"name": "综合解析",
 		"type": 1,
 		"url": "http://1.95.112.195:8889/get?url=",
@@ -408,5 +405,6 @@
 	]
 
 }
+
 
 
