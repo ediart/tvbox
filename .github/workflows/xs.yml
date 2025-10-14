@@ -73,6 +73,10 @@ jobs:
                   # 合并proxy
                   if 'proxy' in live_content:
                       data['proxy'] = live_content['proxy']
+
+                  # 合并sites
+                  if 'sites' in live_content:
+                      data['sites'] = live_content['sites']
                   
                   # 合并hosts
                   if 'hosts' in live_content:
