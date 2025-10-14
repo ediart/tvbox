@@ -35,7 +35,7 @@
         },
 		{
 			"key": "Cntv",
-			"name": "Cntv",
+			"name": "CNTV",
 			"type": 3,
 			"api": "csp_CntvSpider",
 			"style": {
