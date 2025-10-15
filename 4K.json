@@ -61,13 +61,6 @@
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hORGN4TkM5aGNHa3VjR2h3UDNOcGRHVTliR2xpYnlNakkyeHBZbTg9"
 		},
 		{
-			"key": "huban",
-			"name": "虎斑 | 4K",
-			"type": 3,
-			"api": "csp_ZC4K",
-			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hORGN4TkM4dllYQnBMbkJvY0Q5emFYUmxQV2gxWW1GdUl5TWphSFZpWVc0PQ=="
-		},
-		{
 			"key": "xiaoer",
 			"name": "二小 | 4K",
 			"type": 3,
@@ -80,6 +73,13 @@
 			"type": 3,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hORGN4TkM5aGNHa3VjR2h3UDNOcGRHVTliR0ZpYVNNakkyeGhZbWs9"
+		},
+		{
+			"key": "huban",
+			"name": "虎斑 | 4K",
+			"type": 3,
+			"api": "csp_ZC4K",
+			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hORGN4TkM4dllYQnBMbkJvY0Q5emFYUmxQV2gxWW1GdUl5TWphSFZpWVc0PQ=="
 		},
 		{
 			"key": "market",
@@ -454,3 +454,4 @@
 		"static-mozai.4gtv.tv"
 	]
 }
+
