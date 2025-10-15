@@ -101,20 +101,16 @@
 			"changeable": 1
 		},
 		{
-			"key": "哔哩",
-			"name": "哔哩",
-			"type": 3,
-			"api": "csp_Bili",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"ext": {
-				"cookie": "",
-				"type": "综合#音乐#影视"
-			},
-			"changeable": 1
-		},
+            "key": "哔哩",
+            "name": "哔哩哔哩",
+            "type": 3,
+            "api": "csp_Bilibili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
 		{
 			"key": "jable",
 			"name": "JableFQ+",
