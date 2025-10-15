@@ -226,7 +226,29 @@
       "playerType": 2,
       "url": "https://fy.188766.xyz/?ip=&mishitong=true&mima=mianfeidehaimaiqian&huikan=1&json=true",
       "ua": "bingcha/1.1 (mianfeifenxiang) "
-    }
+    },
+		{
+			"name": "港台",
+			"url": "https://php.946985.filegear-sg.me/jackTV.m3u"
+		},
+		{
+			"name": "港台(备用)",
+			"url": "https://bxtv.3a.ink/live.m3u"
+		},
+		{
+			"name": "4GTV",
+			"url": "http://xtvantsc.xyz/litv_ts.php",
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+		{
+			"name": "catvod",
+			"url": "https://iptv.catvod.com/tv.m3u"
+		},
+		{
+			"name": "catvod(备用)",
+			"url": "https://live.catvod.com/tv.m3u"
+		}
   ],
   "hosts": [
     "hlsztemgsplive.miguvideo.com=hlsztemgsplive.miguvideo.com.b.cdn.chinamobile.com",
@@ -436,4 +458,5 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
 
