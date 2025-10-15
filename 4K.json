@@ -20,6 +20,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
+			 "changeable": 1,
 			"playerType": 2,
 			"jar": "https://kong88.dpdns.org/ssvip.jar",
 			"ext": "http://39.105.18.5:5565/api.php/app/"
@@ -28,6 +29,10 @@
 			"key": "wyzz",
 			"name": "臻彩 | 4K",
 			"type": 3,
+			"searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMM2R3TG5kNVlUWXVZMjl0TDJGd2FTNXdhSEEvYzJsMFpUMTNlWHA2SXlNamQzbDZlZz09"
 		},
@@ -35,6 +40,10 @@
 			"key": "mihdr",
 			"name": "至臻 | 4K",
 			"type": 3,
+			"searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hORGN4TkM5aGNHa3VjR2h3UDNOcGRHVTliV2xvWkhJakl5TnRhV2hrY2c9PQ=="
 		},
@@ -42,6 +51,10 @@
 			"key": "ouge",
 			"name": "欧歌 | 4K",
 			"type": 3,
+			"searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hORGN4TkM5aGNHa3VjR2h3UDNOcGRHVTliM1ZuWlNNakkyOTFaMlU9"
 		},
@@ -49,6 +62,10 @@
 			"key": "libo",
 			"name": "立播 | 4K",
 			"type": 3,
+			"searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hORGN4TkM5aGNHa3VjR2h3UDNOcGRHVTliR2xpYnlNakkyeHBZbTg9"
 		},
@@ -56,6 +73,10 @@
 			"key": "huban",
 			"name": "虎斑 | 4K",
 			"type": 3,
+			"searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hORGN4TkM4dllYQnBMbkJvY0Q5emFYUmxQV2gxWW1GdUl5TWphSFZpWVc0PQ=="
 		},
@@ -63,6 +84,10 @@
 			"key": "xiaoer",
 			"name": "二小 | 4K",
 			"type": 3,
+			"searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hORGN4TkM5aGNHa3VjR2h3UDNOcGRHVTllR2xoYjJWeUl5TWplR2xoYjJWeQ=="
 		},
@@ -70,6 +95,10 @@
 			"key": "labi",
 			"name": "蜡笔 | 4K",
 			"type": 3,
+			"searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hORGN4TkM5aGNHa3VjR2h3UDNOcGRHVTliR0ZpYVNNakkyeGhZbWs9"
 		}
@@ -412,4 +441,5 @@
 	"ads": [
 		"static-mozai.4gtv.tv"
 	]
+
 }
