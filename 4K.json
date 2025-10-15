@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "t4douban",
-      "name": "豆瓣",
+      "name": "豆瓣 | 导航",
       "type": 4,
       "api": "https://newtv.ggff.net/douban?token=NtKuzkIw",
       "searchable": 0,
@@ -77,7 +77,7 @@
     },
     {
       "key": "market",
-      "name": "应用商店",
+      "name": "应用 | 商店",
       "type": 3,
       "api": "csp_Market",
       "searchable": 0,
@@ -436,3 +436,4 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
