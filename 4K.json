@@ -26,6 +26,13 @@
 			"ext": "http://39.105.18.5:5565/api.php/app/"
 		},
 		{
+			"key": "wyog",
+			"name": "玩偶 | 4K",
+			"type": 3,
+			"api": "csp_ZC4K",
+			"ext": "YUhSMGNEb3ZMM2R3TG5kNVlUWXVZMjl0TDJGd2FTNXdhSEEvYzJsMFpUMTNlVzluSXlNamQzbHZadz09"
+		},
+		{
 			"key": "wyzz",
 			"name": "臻彩 | 4K",
 			"type": 3,
