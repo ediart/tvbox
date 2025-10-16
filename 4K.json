@@ -48,7 +48,7 @@
 		},
 		{
 			"key": "XiangxiuNB",
-			"name": "肯德基 | 4K",
+			"name": "香秀 | 4K",
 			"type": 3,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTlXR2xoYm1kNGFYVk9RaU1qSTFocFlXNW5lR2wxVGtJPQ=="
@@ -90,7 +90,7 @@
 		},
 		{
 			"key": "wyog",
-			"name": "玩偶 | 免扫4K",
+			"name": "玩偶 | 4K",
 			"type": 3,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMM2R3TG5kNVlUWXVZMjl0TDJGd2FTNXdhSEEvYzJsMFpUMTNlVzluSXlNamQzbHZadz09"
@@ -472,3 +472,4 @@
 		"static-mozai.4gtv.tv"
 	]
 }
+
