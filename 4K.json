@@ -26,60 +26,74 @@
 			"ext": "http://39.105.18.5:5565/api.php/app/"
 		},
 		{
-			"key": "wyog",
-			"name": "玩偶 | 4K",
-			"type": 3,
-			"api": "csp_ZC4K",
-			"ext": "YUhSMGNEb3ZMM2R3TG5kNVlUWXVZMjl0TDJGd2FTNXdhSEEvYzJsMFpUMTNlVzluSXlNamQzbHZadz09"
-		},
-		{
-			"key": "wyzz",
+			"key": "mihdr",
 			"name": "臻彩 | 4K",
 			"type": 3,
 			"api": "csp_ZC4K",
-			"ext": "YUhSMGNEb3ZMM2R3TG5kNVlUWXVZMjl0TDJGd2FTNXdhSEEvYzJsMFpUMTNlWHA2SXlNamQzbDZlZz09"
-		},
-		{
-			"key": "mihdr",
-			"name": "至臻 | 4K",
-			"type": 3,
-			"api": "csp_ZC4K",
-			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hORGN4TkM5aGNHa3VjR2h3UDNOcGRHVTliV2xvWkhJakl5TnRhV2hrY2c9PQ=="
+			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTliV2xvWkhJakl5TnRhV2hrY2c9PQ=="
 		},
 		{
 			"key": "ouge",
 			"name": "欧歌 | 4K",
 			"type": 3,
 			"api": "csp_ZC4K",
-			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hORGN4TkM5aGNHa3VjR2h3UDNOcGRHVTliM1ZuWlNNakkyOTFaMlU9"
+			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTliM1ZuWlNNakkyOTFaMlU9"
 		},
 		{
 			"key": "libo",
 			"name": "立播 | 4K",
 			"type": 3,
 			"api": "csp_ZC4K",
-			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hORGN4TkM5aGNHa3VjR2h3UDNOcGRHVTliR2xpYnlNakkyeHBZbTg9"
+			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTliR2xpYnlNakkyeHBZbTg9"
+		},
+		{
+			"key": "XiangxiuNB",
+			"name": "肯德基 | 4K",
+			"type": 3,
+			"api": "csp_ZC4K",
+			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTlXR2xoYm1kNGFYVk9RaU1qSTFocFlXNW5lR2wxVGtJPQ=="
 		},
 		{
 			"key": "xiaoer",
 			"name": "二小 | 4K",
 			"type": 3,
 			"api": "csp_ZC4K",
-			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hORGN4TkM5aGNHa3VjR2h3UDNOcGRHVTllR2xoYjJWeUl5TWplR2xoYjJWeQ=="
+			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTllR2xoYjJWeUl5TWplR2xoYjJWeQ=="
 		},
 		{
 			"key": "labi",
 			"name": "蜡笔 | 4K",
 			"type": 3,
 			"api": "csp_ZC4K",
-			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hORGN4TkM5aGNHa3VjR2h3UDNOcGRHVTliR0ZpYVNNakkyeGhZbWs9"
+			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTliR0ZpYVNNakkyeGhZbWs9"
 		},
 		{
-			"key": "huban",
-			"name": "虎斑 | 4K",
+			"key": "yanshi1",
+			"name": "影视 | 4K",
 			"type": 3,
 			"api": "csp_ZC4K",
-			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hORGN4TkM4dllYQnBMbkJvY0Q5emFYUmxQV2gxWW1GdUl5TWphSFZpWVc0PQ=="
+			"ext": "YUhSMGNEb3ZMekV5TXk0eU1EY3VNakkwTGpFek1EbzNNRE16TDJGd2FTNXdhSEEvYzJsMFpUMXZkV2RsSXlNamIzVm5aUT09"
+		},
+		{
+			"key": "zhizhen",
+			"name": "至臻 | 4K",
+			"type": 3,
+			"api": "csp_ZC4K",
+			"ext": "YUhSMGNEb3ZMekV5TXk0eU1EY3VNakkwTGpFek1EbzNNRE16TDJGd2FTNXdhSEEvYzJsMFpUMXRhV2hrY2lNakkyMXBhR1J5"
+		},
+		{
+			"key": "wyzz",
+			"name": "严选 | 4K",
+			"type": 3,
+			"api": "csp_ZC4K",
+			"ext": "YUhSMGNEb3ZMM2R3TG5kNVlUWXVZMjl0TDJGd2FTNXdhSEEvYzJsMFpUMTNlWHA2SXlNamQzbDZlZz09"
+		},
+		{
+			"key": "wyog",
+			"name": "玩偶 | 免扫4K",
+			"type": 3,
+			"api": "csp_ZC4K",
+			"ext": "YUhSMGNEb3ZMM2R3TG5kNVlUWXVZMjl0TDJGd2FTNXdhSEEvYzJsMFpUMTNlVzluSXlNamQzbHZadz09"
 		},
 		{
 			"key": "market",
@@ -458,6 +472,3 @@
 		"static-mozai.4gtv.tv"
 	]
 }
-
-
-
