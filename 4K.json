@@ -2,16 +2,29 @@
 	"spider": "https://kong88.dpdns.org/wp.jar",
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 	"sites": [{
-      "key": "豆瓣",
-      "name": "豆瓣 | 导航",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "indexs":0,
-      "jar": "https://tvbox.catvod.com/catvod.jar"
-    },
+			"key": "t4douban",
+			"name": "豆瓣 | 导航",
+			"type": 4,
+			"api": "https://newtv.ggff.net/douban?token=NtKuzkIw",
+			"searchable": 0,
+			"changeable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"indexs": 1
+		},
+		{
+			"key": "guanyuan",
+			"name": "官源 | 4K",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"playerType": 2,
+			"jar": "https://kong88.dpdns.org/ssvip.jar",
+			"ext": "http://39.105.18.5:5565/api.php/app/"
+		},
 		{
 			"key": "mihdr",
 			"name": "臻彩 | 4K",
@@ -46,19 +59,6 @@
 			"type": 3,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTliR0ZpYVNNakkyeGhZbWs9"
-		},
-		{
-			"key": "guanyuan",
-			"name": "官源 | 4K",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"playerType": 2,
-			"jar": "https://kong88.dpdns.org/ssvip.jar",
-			"ext": "http://39.105.18.5:5565/api.php/app/"
 		},
 		{
 			"key": "market",
@@ -437,7 +437,3 @@
 		"static-mozai.4gtv.tv"
 	]
 }
-
-
-
-
