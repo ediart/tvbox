@@ -10,7 +10,7 @@
 			"changeable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"indexs": 1
+			"indexs": 0
 		},
 		{
 			"key": "guanyuan",
@@ -457,4 +457,5 @@
 		"static-mozai.4gtv.tv"
 	]
 }
+
 
