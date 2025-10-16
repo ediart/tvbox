@@ -2,16 +2,16 @@
 	"spider": "https://kong88.dpdns.org/wp.jar",
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 	"sites": [{
-			"key": "豆瓣",
-			"name": "豆瓣",
-			"type": 3,
-			"api": "csp_Douban",
-			"searchable": 0,
-			"changeable": 1,
-			"indexs":0,
-			"jar": "https://tvbox.catvod.com/pg.jar",
-			"ext": "https://tvbox.catvod.com/lib/douban.json"
-		},
+      "key": "豆瓣",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "indexs":0,
+      "jar": "https://tvbox.catvod.com/catvod.jar"
+    },
 		{
 			"key": "mihdr",
 			"name": "臻彩 | 4K",
@@ -437,5 +437,6 @@
 		"static-mozai.4gtv.tv"
 	]
 }
+
 
 
