@@ -13,19 +13,6 @@
 			"indexs": 0
 		},
 		{
-			"key": "guanyuan",
-			"name": "官源 | 4K",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"playerType": 2,
-			"jar": "https://kong88.dpdns.org/ssvip.jar",
-			"ext": "http://39.105.18.5:5565/api.php/app/"
-		},
-		{
 			"key": "mihdr",
 			"name": "臻彩 | 4K",
 			"type": 3,
@@ -59,6 +46,19 @@
 			"type": 3,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTliR0ZpYVNNakkyeGhZbWs9"
+		},
+		{
+			"key": "guanyuan",
+			"name": "官源 | 4K",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"playerType": 2,
+			"jar": "https://kong88.dpdns.org/ssvip.jar",
+			"ext": "http://39.105.18.5:5565/api.php/app/"
 		},
 		{
 			"key": "market",
@@ -437,3 +437,4 @@
 		"static-mozai.4gtv.tv"
 	]
 }
+
