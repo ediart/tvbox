@@ -29,6 +29,10 @@
 			"key": "mihdr",
 			"name": "臻彩 | 4K",
 			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTliV2xvWkhJakl5TnRhV2hrY2c9PQ=="
 		},
@@ -36,6 +40,10 @@
 			"key": "ouge",
 			"name": "讴歌 | 4K",
 			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTliM1ZuWlNNakkyOTFaMlU9"
 		},
@@ -43,6 +51,10 @@
 			"key": "libo",
 			"name": "立播 | 4K",
 			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTliR2xpYnlNakkyeHBZbTg9"
 		},
@@ -50,6 +62,10 @@
 			"key": "xiaoer",
 			"name": "二小 | 4K",
 			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTllR2xoYjJWeUl5TWplR2xoYjJWeQ=="
 		},
@@ -57,6 +73,10 @@
 			"key": "labi",
 			"name": "蜡笔 | 4K",
 			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTliR0ZpYVNNakkyeGhZbWs9"
 		},
@@ -437,3 +457,4 @@
 		"static-mozai.4gtv.tv"
 	]
 }
+
