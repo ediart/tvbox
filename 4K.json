@@ -1,5 +1,5 @@
 {
-	"spider": "https://kong88.dpdns.org/wp.jar",
+	"spider": "http://139.224.213.240:12312/ZC4K.jar",
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 	"sites": [{
 			"key": "t4douban",
@@ -458,5 +458,6 @@
 		"static-mozai.4gtv.tv"
 	]
 }
+
 
 
