@@ -5,6 +5,9 @@ on:
     - cron: '0 * * * *'  # Run every hour
   workflow_dispatch:      # Allow manual trigger
 
+permissions:
+  contents: write        # 添加写入权限
+
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # 使用 GITHUB_TOKEN
         
       - name: Install jq
         run: sudo apt-get install jq
@@ -34,8 +39,8 @@ jobs:
             mv temp.json 4K.json
             
             # Configure git
-            git config --global user.name 'GitHub Action'
-            git config --global user.email 'action@github.com'
+            git config --global user.name 'github-actions[bot]'
+            git config --global user.email 'github-actions[bot]@users.noreply.github.com'
             
             # Commit and push if there are changes
             git add 4K.json
