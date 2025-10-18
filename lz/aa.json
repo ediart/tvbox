@@ -112,6 +112,17 @@
             "changeable": 1
         },
 		{
+            "key": "爱瓜电视",
+            "name": "爱瓜电视",
+            "type": 3,
+            "api": "csp_AiguaTV1",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+		{
 			"key": "jable",
 			"name": "JableFQ+",
 			"type": 3,
