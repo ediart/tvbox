@@ -1,0 +1,46 @@
+name: Sync 4K.json Header
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Run every hour
+  workflow_dispatch:      # Allow manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Install jq
+        run: sudo apt-get install jq
+        
+      - name: Download and update JSON
+        run: |
+          # Download remote JSON file
+          curl -s https://kong88.dpdns.org/4k.json > remote.json
+          
+          # Extract header from remote file
+          REMOTE_HEADER=$(jq -c '.parses[0].ext.header' remote.json)
+          
+          # Extract current header from local file
+          LOCAL_HEADER=$(jq -c '.parses[0].ext.header' 4K.json)
+          
+          # Compare headers
+          if [ "$REMOTE_HEADER" != "$LOCAL_HEADER" ]; then
+            # Update local file's header while preserving the rest
+            jq --argjson new_header "$REMOTE_HEADER" '.parses[0].ext.header = $new_header' 4K.json > temp.json
+            mv temp.json 4K.json
+            
+            # Configure git
+            git config --global user.name 'GitHub Action'
+            git config --global user.email 'action@github.com'
+            
+            # Commit and push if there are changes
+            git add 4K.json
+            git commit -m "自动同步4K.json parses.header内容"
+            git push
+          else
+            echo "No changes needed - headers are identical"
+          fi
