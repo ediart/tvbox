@@ -12,6 +12,17 @@
 			"indexs": 0
 		},
 		{
+			"key": "lf_js_search",
+			"name": "路飞豆瓣",
+			"type": 3,
+			"searchable": 0,
+			"changeable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"api": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/路飞豆瓣.js",
+			"indexs": 0
+		},
+		{
 			"key": "hohaiemby",
 			"name": "HohaiEMBY",
 			"type": 3,
