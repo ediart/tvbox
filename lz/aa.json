@@ -127,7 +127,7 @@
             "key": "在线json",
             "name": "在线json",
             "type": 1,
-            "api": "https://down.nigx.cn/zx.zzong6599.workers.dev/?filter=true",
+            "api": "http://139.185.42.4:14888/TV/lives.php",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
