@@ -139,9 +139,7 @@
             "key": "文件播放",
             "name": "文件播放",
             "type": 4,
-            "api": "http://139.185.42.4:14888/TV/lives.php",
-            "searchable": 1,
-            "changeable": 1
+            "api": "http://139.185.42.4:14888/TV/lives.php"
         },
 		{
 			"key": "91RB",
