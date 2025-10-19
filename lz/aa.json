@@ -124,6 +124,18 @@
             "changeable": 1
         },
 		{
+            "key": "在线json",
+            "name": "在线json",
+            "type": 1,
+            "api": "https://down.nigx.cn/zx.zzong6599.workers.dev/?filter=true",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "searchable": 1,
+            "changeable": 1
+        },
+		{
 			"key": "jable",
 			"name": "JableFQ+",
 			"type": 3,
