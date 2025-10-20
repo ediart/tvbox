@@ -15,7 +15,7 @@
 			"key": "js_ying_hua",
 			"name": "樱花视频(js)",
 			"type": 3,
-			"api": "./樱花视频.min.js",
+			"api": "./js/樱花视频.min.js",
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 0,
