@@ -93,6 +93,15 @@
       "ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTliR0ZpYVNNakkyeGhZbWs9"
     },
     {
+      "key": "wogg",
+      "name": "玩偶 | 4K",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/玩偶哥哥[盘]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+    },
+    {
       "key": "market",
       "name": "应用 | 商店",
       "type": 3,
