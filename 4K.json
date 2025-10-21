@@ -27,7 +27,7 @@
 		},
 		{
 			"key": "lvdou",
-			"name": "网盘 | 全能",
+			"name": "网盘 | 4K",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"searchable": 1,
@@ -38,49 +38,49 @@
 		},
 		{
 			"key": "mihdr",
-			"name": "网盘1 | 免扫4K",
+			"name": "臻彩 | 4K",
 			"type": 3,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTliV2xvWkhJakl5TnRhV2hrY2c9PQ=="
 		},
 		{
 			"key": "ouge",
-			"name": "网盘2 | 免扫4K",
+			"name": "欧哥 | 4K",
 			"type": 3,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTliM1ZuWlNNakkyOTFaMlU9"
 		},
 		{
 			"key": "libo",
-			"name": "网盘3 | 免扫4K",
+			"name": "立播 | 4K",
 			"type": 3,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTliR2xpYnlNakkyeHBZbTg9"
 		},
 		{
 			"key": "xiaoer",
-			"name": "网盘4 | 免扫4K",
+			"name": "二小 | 4K",
 			"type": 3,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTllR2xoYjJWeUl5TWplR2xoYjJWeQ=="
 		},
 		{
 			"key": "labi",
-			"name": "网盘5 | 免扫4K",
+			"name": "蜡笔 | 4K",
 			"type": 3,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTliR0ZpYVNNakkyeGhZbWs9"
 		},
 		{
 			"key": "yanshi1",
-			"name": "网盘6 | 免扫4K",
+			"name": "影视 | 4K",
 			"type": 3,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV5TXk0eU1EY3VNakkwTGpFek1EbzNNRE16TDJGd2FTNXdhSEEvYzJsMFpUMXZkV2RsSXlNamIzVm5aUT09"
 		},
 		{
 			"key": "zhizhen",
-			"name": "网盘7 | 免扫4K",
+			"name": "至臻 | 免扫4K",
 			"type": 3,
 			"api": "csp_ZC4K",
 			"ext": "YUhSMGNEb3ZMekV5TXk0eU1EY3VNakkwTGpFek1EbzNNRE16TDJGd2FTNXdhSEEvYzJsMFpUMXRhV2hrY2lNakkyMXBhR1J5"
