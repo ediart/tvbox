@@ -12,11 +12,21 @@
 			"api": "./路飞豆瓣.js",
 			"indexs": 0
 		},
-		{
-			"key": "js_en_gf",
+	    {
+			"key": "js_guan_fang_cai_ji",
 			"name": "官方采集(js)",
 			"type": 3,
-			"api": "./js/en_gf.js",
+			"api": "./js/官方采集.min.js",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0,
+			"changeable": 0
+		},
+		{
+			"key": "js_ttt",
+			"name": "禁漫天堂(js)",
+			"type": 3,
+			"api": "./js/禁漫天堂.js",
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 0,
@@ -34,16 +44,6 @@
 			"ext": {}
 		},
 		{
-			"key": "js_ttt",
-			"name": "禁漫天堂(js)",
-			"type": 3,
-			"api": "./js/禁漫天堂.js",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0
-		},
-		{
 			"key": "js_madou",
 			"name": "麻豆(js)",
 			"type": 3,
@@ -53,8 +53,26 @@
 			"filterable": 0,
 			"changeable": 0,
 			"ext": {}
+		}, {
+			"key": "py_fei_fan_zi_yuan",
+			"name": "非凡资源(py)",
+			"type": 3,
+			"api": "./py/非凡资源.min.py",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0,
+			"changeable": 0
 		},
-
+		{
+			"key": "py_dm84",
+			"name": "动漫巴士(py)",
+			"type": 3,
+			"api": "./py/动漫巴士.py",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0,
+			"changeable": 0
+		},
 		{
 			"key": "熊猫直播",
 			"name": "熊猫直播",
@@ -140,16 +158,6 @@
 			"changeable": 1
 		},
 		{
-			"key": "黑料弹幕版",
-			"name": "黑料弹幕版",
-			"type": 3,
-			"api": "./PY/黑料弹幕版.py",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1
-		},
-		{
 			"key": "黄色仓库",
 			"name": "黄色仓库",
 			"type": 3,
@@ -215,6 +223,7 @@
 			"key": "51吸瓜",
 			"name": "51吸瓜",
 			"type": 3,
+			"searchable": 1,
 			"api": "./py/51吸瓜.py",
 			"style": {
 				"type": "rect",
@@ -226,18 +235,8 @@
 			"key": "51吸瓜动态版",
 			"name": "51吸瓜动态版",
 			"type": 3,
+			"searchable": 1,
 			"api": "./py/51吸瓜动态版.py",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-		{
-			"key": "911",
-			"name": "911",
-			"type": 3,
-			"api": "./py/911.py",
 			"style": {
 				"type": "rect",
 				"ratio": 1.33
@@ -289,10 +288,10 @@
 			"changeable": 1
 		},
 		{
-			"key": "Mang",
-			"name": "Mang",
+			"key": "芒果TV",
+			"name": "芒果TV",
 			"type": 3,
-			"api": "./py/Mang.py",
+			"api": "./py/芒果TV.py",
 			"style": {
 				"type": "rect",
 				"ratio": 1.33
@@ -322,20 +321,10 @@
 			"changeable": 1
 		},
 		{
-			"key": "Pornhub (1)",
-			"name": "Pornhub (1)",
-			"type": 3,
-			"api": "./py/Pornhub (1).py",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-		{
 			"key": "Pornhub",
 			"name": "Pornhub",
 			"type": 3,
+			"searchable": 1,
 			"api": "./py/Pornhub.py",
 			"style": {
 				"type": "rect",
@@ -359,17 +348,6 @@
 			"name": "ThePorn",
 			"type": 3,
 			"api": "./py/ThePorn.py",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-		{
-			"key": "Xvd",
-			"name": "Xvd",
-			"type": 3,
-			"api": "./py/Xvd.py",
 			"style": {
 				"type": "rect",
 				"ratio": 1.33
@@ -443,28 +421,6 @@
 			"changeable": 1
 		},
 		{
-			"key": "iptv345",
-			"name": "iptv345",
-			"type": 3,
-			"api": "./py/iptv345.py",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-		{
-			"key": "kzb",
-			"name": "kzb",
-			"type": 3,
-			"api": "./py/kzb.py",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-		{
 			"key": "lav",
 			"name": "lav",
 			"type": 3,
@@ -502,17 +458,6 @@
 			"name": "onlyfans gv",
 			"type": 3,
 			"api": "./py/onlyfans gv.py",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-		{
-			"key": "live_zxbv",
-			"name": "live_zxbv",
-			"type": 3,
-			"api": "./py/live_zxbv.py",
 			"style": {
 				"type": "rect",
 				"ratio": 1.33
@@ -1136,10 +1081,10 @@
 			"changeable": 1
 		},
 		{
-			"key": "黑料",
-			"name": "黑料",
+			"key": "91网爆黑料",
+			"name": "91网爆黑料",
 			"type": 3,
-			"api": "./py/黑料.py",
+			"api": "./py/91网爆黑料.py",
 			"style": {
 				"type": "rect",
 				"ratio": 1.33
@@ -1147,14 +1092,13 @@
 			"changeable": 1
 		},
 		{
-			"key": "黑料不打样",
-			"name": "黑料不打样",
+			"key": "黑料弹幕版",
+			"name": "黑料弹幕版",
 			"type": 3,
-			"api": "./py/黑料不打样.py",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
+			"api": "./PY/黑料弹幕版.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
 			"changeable": 1
 		}
 	],
@@ -1239,9 +1183,34 @@
 		}
 	],
 	"lives": [{
-			"name": "SMT直播(py)",
+			"name": "SMT(py)",
 			"type": 3,
-			"api": "./py/SMT.py",
+			"api": "./py/lives-SMT.py",
+			"ext": {}
+		},
+		{
+			"name": "iptv345",
+			"type": 3,
+			"api": "./py/lives-iptv345.py",
+			"ext": {}
+		},
+		{
+			"name": "zxbv",
+			"type": 3,
+			"api": "./py/live_zxbv.py",
+			"ext": {}
+		},
+		{
+			"name": "kzb",
+			"type": 3,
+			"api": "./py/lives-kzb.py",
+			"ext": {}
+		},
+		{
+			"name": "直播bx5kge(js)",
+			"type": 3,
+			"url": "https://b6f56s23.bx5kge.com/assets/js/tv.js",
+			"api": "./js/直播bx5kge.min.js",
 			"ext": {}
 		},
 		{
