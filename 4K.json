@@ -3,17 +3,6 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "t4douban",
-      "name": "豆瓣 | 导航",
-      "type": 4,
-      "api": "https://newtv.ggff.net/douban?token=NtKuzkIw",
-      "searchable": 0,
-      "changeable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "indexs": 0
-    },
-    {
       "key": "lf_js_search",
       "name": "路飞 | 豆瓣",
       "type": 3,
