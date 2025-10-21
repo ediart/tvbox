@@ -33,6 +33,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
+			"jar": "https://kong88.dpdns.org/ssvip.jar",
 			"ext": "http://210.16.170.113:8999/api.php/app/"
 		},
 		{
