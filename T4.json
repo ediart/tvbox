@@ -131,6 +131,12 @@
             "api": "http://139.185.42.4:14888/TV/lives.php"
         },
 		{
+            "key": "bibi",
+            "name": "Bilibili",
+            "type": 4,
+            "api": "https://learnpython.ggff.net/bibi"
+        },
+		{
 			"key": "91RB",
 			"name": "🔞91RB",
 			"type": 4,
