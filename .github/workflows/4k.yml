@@ -2,7 +2,7 @@ name: Sync 4K.json Header
 
 on:
   schedule:
-    - cron: '0,30 * * * *'  # Run every hour
+    - cron: '*/10 * * * *'  # Run every hour
   workflow_dispatch:      # Allow manual trigger
 
 permissions:
