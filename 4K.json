@@ -4,15 +4,14 @@
   "logo": "https://file.icve.com.cn/file_doc/81/1006/144FBABA4A7289F4EE57F8F827FE293C.gif",
   "sites": [
     {
-      "key": "lf_js_search",
-      "name": "路飞 | 豆瓣",
+      "key": "csp_DouDou",
+      "name": "豆瓣 | 导航",
       "type": 3,
+      "api": "csp_DouDou",
+      "jar": "https://cdn.waimaimingtang.com/file/images/bwc/20251023214920-f8567c1b85.jar",
       "searchable": 0,
-      "changeable": 0,
       "quickSearch": 0,
-      "filterable": 1,
-      "api": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/路飞豆瓣.js",
-      "indexs": 0
+      "filterable": 0
     },
     {
       "key": "guanyuan",
@@ -24,7 +23,7 @@
       "filterable": 1,
       "changeable": 1,
       "playerType": 2,
-      "jar": "https://file.icve.com.cn/file_doc/442/207/6EA33C17933C910130D2905DD23F248D.jar",
+      "jar": "https://cdn.waimaimingtang.com/file/images/bwc/20251023214920-f8567c1b85.jar",
       "ext": "http://39.105.18.5:5565/api.php/app/"
     },
     {
@@ -35,7 +34,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.icve.com.cn/file_doc/442/207/6EA33C17933C910130D2905DD23F248D.jar",
+      "jar": "https://cdn.waimaimingtang.com/file/images/bwc/20251023214920-f8567c1b85.jar",
       "ext": "http://210.16.170.113:8999/api.php/app/"
     },
     {
