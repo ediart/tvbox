@@ -1,14 +1,14 @@
 {
 	"sites": [{
-		"key": "market",
-		"name": "应用｜商店",
-		"type": 3,
-		"api": "csp_Market",
-		"searchable": 0,
-		"changeable": 0,
-		"ext": "https://000.hfr1107.top/tool/yc/market.json",
-		"jar": "https://000.hfr1107.top/tool/yc/fm.jar"
-	}],
+			"key": "market",
+			"name": "应用 | 商店",
+			"type": 3,
+			"api": "csp_Market",
+			"searchable": 0,
+			"changeable": 0,
+			"ext": "https://gb.hfr1107.top/https://github.com/ediart/tvbox/blob/main/lz/market.json",
+			"jar": "https://gb.hfr1107.top/https://github.com/ediart/tvbox/blob/main/lz/fm.jar"
+		}],
 	"lives": [{
 			"name": "冰茶",
 			"type": 0,
