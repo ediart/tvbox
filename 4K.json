@@ -14,19 +14,6 @@
       "filterable": 0
     },
     {
-      "key": "guanyuan",
-      "name": "官源 | 4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "playerType": 2,
-      "jar": "https://cdn.waimaimingtang.com/file/images/bwc/20251023214920-f8567c1b85.jar",
-      "ext": "http://39.105.18.5:5565/api.php/app/"
-    },
-    {
       "key": "lvdou",
       "name": "网盘 | 4K",
       "type": 3,
