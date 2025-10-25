@@ -12,7 +12,7 @@
 			"api": "./路飞豆瓣.js",
 			"indexs": 0
 		},
-	    {
+		{
 			"key": "js_guan_fang_cai_ji",
 			"name": "官方采集(js)",
 			"type": 3,
@@ -53,7 +53,19 @@
 			"filterable": 0,
 			"changeable": 0,
 			"ext": {}
-		}, {
+		},
+		{
+			"key": "js_138FM",
+			"name": "138FM(18+)(js)",
+			"type": 3,
+			"api": "./js/138FM.min.js",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0,
+			"changeable": 0,
+			"ext": {}
+		},
+		{
 			"key": "py_fei_fan_zi_yuan",
 			"name": "非凡资源(py)",
 			"type": 3,
