@@ -1100,6 +1100,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 1
+		},
+		{
+			"key": "market",
+			"name": "应用 | 商店",
+			"type": 3,
+			"api": "csp_Market",
+			"searchable": 0,
+			"changeable": 0,
+			"ext": "https://gb.hfr1107.top/https://github.com/ediart/tvbox/blob/main/lz/market.json",
+			"jar": "https://gb.hfr1107.top/https://github.com/ediart/tvbox/blob/main/lz/fm.jar"
 		}
 	],
 	"parses": [{
