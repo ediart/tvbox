@@ -123,6 +123,19 @@
             }
         },
         {
+            "key": "开心",
+            "name": "开心｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "ext": {
+                "site": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw.txt",
+                "dataKey": "ca94b06ca3c7d80e",
+                "dataIv": "ca94b06ca3c7d80e",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
             "key": "仓鼠",
             "name": "仓鼠｜APP",
             "type": 3,
@@ -1038,32 +1051,6 @@
             "ext": "https://xl01.com.de"
         },
         {
-            "key": "阿里云盘",
-            "name": "我的｜阿里",
-            "type": 3,
-            "api": "csp_PanAli",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./json/aliShare.json"
-        },
-        {
-            "key": "阿里盘搜",
-            "name": "阿里｜搜索",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "cloudDrives": "aliyun"
-            }
-        },
-        {
             "key": "88看球",
             "name": "88｜看球",
             "type": 3,
@@ -1291,15 +1278,15 @@
             }
         },
         {
-			"key": "market",
-			"name": "应用 | 商店",
-			"type": 3,
-			"api": "csp_Market",
-			"searchable": 0,
-			"changeable": 0,
-			"ext": "https://gb.hfr1107.top/https://github.com/ediart/tvbox/blob/main/lz/market.json",
-			"jar": "https://gb.hfr1107.top/https://github.com/ediart/tvbox/blob/main/lz/fm.jar"
-		}
+            "key": "market",
+            "name": "应用 | 商店",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://gb.hfr1107.top/https://github.com/ediart/tvbox/blob/main/lz/market.json",
+            "jar": "https://gb.hfr1107.top/https://github.com/ediart/tvbox/blob/main/lz/fm.jar"
+        }
     ],
     "parses": [
         {
