@@ -1,0 +1,27 @@
+{
+	"urls": [{
+			"name": "4K网盘",
+			"url": "https://gb.hfr1107.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K.json"
+		},
+		{
+			"name": "潇洒无盘",
+			"url": "https://gb.hfr1107.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/xs.json"
+		},
+		{
+			"name": "潇洒",
+			"url": "https://gb.hfr1107.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/api.json"
+		},
+		{
+			"name": "老张+",
+			"url": "https://gb.hfr1107.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/aa.json"
+		},
+		{
+			"name": "T4+",
+			"url": "https://gb.hfr1107.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/T4.json"
+		},
+		{
+			"name": "PY+",
+			"url": "https://gb.hfr1107.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py.json"
+		}
+	]
+}
