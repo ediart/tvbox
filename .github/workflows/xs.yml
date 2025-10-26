@@ -3,7 +3,7 @@ name: Download and Update Files
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'  # 每天运行一次
+    - cron: '0 0,12 * * *'  # 每天运行两次
 
 jobs:
   download-and-update:
