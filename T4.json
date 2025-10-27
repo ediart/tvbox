@@ -63,6 +63,12 @@
 			"api": "https://tvbot.dpdns.org/py_jinpai.py"
 		},
 		{
+			"key": "4KVM",
+			"name": "4KVM",
+			"type": 3,
+			"api": "./lz/py/4KVM.py"
+		},
+		{
 			"key": "剧爸爸",
 			"name": "剧爸爸",
 			"type": 4,
