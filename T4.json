@@ -63,6 +63,12 @@
 			"api": "https://tvbot.dpdns.org/py_jinpai.py"
 		},
 		{
+			"key": "4kav",
+			"name": "4KAV",
+			"type": 3,
+			"api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_4kav.js"
+		},
+		{
 			"key": "剧爸爸",
 			"name": "剧爸爸",
 			"type": 4,
