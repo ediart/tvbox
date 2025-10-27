@@ -147,41 +147,6 @@
             "changeable": 1
         },
 		{
-            "key": "php_server1",
-            "name": "PHP爬虫第一版",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_PhpServer"
-        },
-        {
-            "key": "php_server2",
-            "name": "PHP爬虫第二版",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_PhpServer2",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-        {
-            "key": "php_server3",
-            "name": "PHP爬虫第三版",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_PhpServer3",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-		{
 			"key": "jable",
 			"name": "JableFQ+",
 			"type": 3,
