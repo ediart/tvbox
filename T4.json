@@ -93,6 +93,18 @@
 			"api": "https://learnpython.ggff.net/zajiao"
 		},
 		{
+			"key": "月佬瓜子",
+			"name": "月佬瓜子",
+			"type": 4,
+			"api": "https://newtv.ggff.net/guazi?token=NtKuzkIw"
+		},
+		{
+			"key": "独播库",
+			"name": "独播库",
+			"type": 4,
+			"api": "https://newtv.ggff.net/duboku?token=NtKuzkIw"
+		},
+		{
 			"key": "hmdj",
 			"name": "HM短剧",
 			"type": 4,
