@@ -1,12 +1,15 @@
 {
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 	"sites": [{
-			"key": "t4douban",
+			"key": "lf_js_search",
 			"name": "豆瓣",
-			"type": 4,
-			"api": "https://newtv.ggff.net/douban?token=NtKuzkIw",
-			"quickserch": 0,
-			"searchable": 0
+			"type": 3,
+			"searchable": 0,
+			"changeable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"api": "./路飞豆瓣.js",
+			"indexs": 0
 		},
 		{
 			"key": "hohaiemby",
@@ -88,18 +91,6 @@
 			"name": "瓜子影视",
 			"type": 4,
 			"api": "https://learnpython.ggff.net/zajiao"
-		},
-		{
-			"key": "月佬瓜子",
-			"name": "月佬瓜子",
-			"type": 4,
-			"api": "https://newtv.ggff.net/guazi?token=NtKuzkIw"
-		},
-		{
-			"key": "独播库",
-			"name": "独播库",
-			"type": 4,
-			"api": "https://newtv.ggff.net/duboku?token=NtKuzkIw"
 		},
 		{
 			"key": "hmdj",
