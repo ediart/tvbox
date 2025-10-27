@@ -93,12 +93,6 @@
 			"api": "https://learnpython.ggff.net/zajiao"
 		},
 		{
-			"key": "vod",
-			"name": "VOD",
-			"type": 4,
-			"api": "https://vod.199301.xyz"
-		},
-		{
 			"key": "hmdj",
 			"name": "HM短剧",
 			"type": 4,
