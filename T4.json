@@ -45,28 +45,10 @@
 			"api": "https://learnpython.ggff.net/UVod"
 		},
 		{
-			"key": "4kav",
-			"name": "4KAV",
-			"type": 4,
-			"api": "https://learnpython.ggff.net/4kav"
-		},
-		{
-			"key": "4kvm",
-			"name": "4KVM",
-			"type": 4,
-			"api": "https://learnpython.ggff.net/4kvm"
-		},
-		{
 			"key": "shdy",
 			"name": "SHDY",
 			"type": 4,
 			"api": "https://learnpython.ggff.net/shdy"
-		},
-		{
-			"key": "czzy",
-			"name": "厂长资源",
-			"type": 4,
-			"api": "https://learnpython.ggff.net/CZZY"
 		},
 		{
 			"key": "pingguo",
@@ -106,9 +88,15 @@
 		},
 		{
 			"key": "zajiao",
-			"name": "zajiao",
+			"name": "瓜子影视",
 			"type": 4,
 			"api": "https://learnpython.ggff.net/zajiao"
+		},
+		{
+			"key": "vod",
+			"name": "VOD",
+			"type": 4,
+			"api": "https://vod.199301.xyz"
 		},
 		{
 			"key": "hmdj",
