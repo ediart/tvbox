@@ -39,6 +39,12 @@
 			"api": "https://py.doube.eu.org/spider?site=DianYingTanTang"
 		},
 		{
+            "key": "爱瓜TV",
+            "name": "爱瓜TV",
+            "type": 4,
+            "api": "http://zhangqun66.com/aigua.php"
+        },
+		{
 			"key": "jinpai",
 			"name": "金牌影院",
 			"type": 3,
