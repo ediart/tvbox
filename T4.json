@@ -39,6 +39,12 @@
 			"api": "https://py.doube.eu.org/spider?site=DianYingTanTang"
 		},
 		{
+            "key": "永乐视频",
+            "name": "永乐视频",
+            "type": 4,
+            "api": "http://128.204.223.113:5052/?sp=永乐视频"
+        },
+		{
             "key": "爱瓜TV",
             "name": "爱瓜TV",
             "type": 4,
