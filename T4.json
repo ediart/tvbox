@@ -45,6 +45,12 @@
             "api": "http://zhangqun1818.serv00.net:5052/?sp=永乐视频"
         },
 		{
+            "key": "Mang",
+            "name": "芒果TV",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=Mang"
+        },
+		{
             "key": "爱瓜TV",
             "name": "爱瓜TV",
             "type": 4,
