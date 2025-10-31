@@ -5,7 +5,7 @@
 			"key": "js_douban",
 			"name": "豆瓣(js)",
 			"type": 3,
-			"api": "./douban.min.js",
+			"api": "./douban_min.js",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
