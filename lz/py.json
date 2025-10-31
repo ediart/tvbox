@@ -3,6 +3,16 @@
     "wallpaper": "",
     "sites": [
     {
+      "key": "js_douban",
+      "name": "豆瓣(js)",
+      "type": 3,
+      "api": "./douban.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
       "key": "js_guan_fang_cai_ji",
       "name": "官方采集(js)",
       "type": 3,
