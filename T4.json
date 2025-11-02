@@ -70,56 +70,34 @@
 			"api": "http://139.185.42.4:14888/TV/lives.php"
 		},
 		{
+			"key": "Phb",
+			"name": "🔞Phb",
+			"type": 4,
+			"api": "https://learnpython.ggff.net/Phb"
+		},
+		{
 			"key": "py_BadNews",
 			"name": "🔞BadNews",
 			"type": 4,
-			"api": "https://py.doube.eu.org/spider?site=BadNews",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 1.5
-			}
+			"api": "https://py.doube.eu.org/spider?site=BadNews"
 		},
 		{
 			"key": "py_Miss",
 			"name": "🔞MissAV",
 			"type": 4,
-			"api": "https://py.doube.eu.org/spider?site=Miss",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0
+			"api": "https://py.doube.eu.org/spider?site=Miss"
 		},
 		{
 			"key": "py_AiDou",
 			"name": "🔞AiDou",
 			"type": 4,
-			"api": "https://py.doube.eu.org/spider?site=AiDou",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 1.5
-			}
+			"api": "https://py.doube.eu.org/spider?site=AiDou"
 		},
 		{
 			"key": "py_madou",
 			"name": "🔞MaDou",
 			"type": 4,
-			"api": "https://py.doube.eu.org/spider?site=MaDou",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 1.5
-			}
+			"api": "https://py.doube.eu.org/spider?site=MaDou"
 		},
 		{
 			"key": "market",
