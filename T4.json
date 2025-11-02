@@ -70,6 +70,12 @@
 			"api": "http://139.185.42.4:14888/TV/lives.php"
 		},
 		{
+			"key": "欧乐影院",
+			"name": "欧乐影院",
+			"type": 4,
+			"api": "https://py.doube.eu.org/spider?site=OleVod"
+		},
+		{
 			"key": "Phb",
 			"name": "🔞Phb",
 			"type": 4,
