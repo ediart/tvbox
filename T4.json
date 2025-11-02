@@ -76,16 +76,22 @@
 			"api": "https://py.doube.eu.org/spider?site=OleVod"
 		},
 		{
+			"key": "HLBTY",
+			"name": "🔞HLBTY",
+			"type": 4,
+			"api": "https://learnpython.ggff.net/HLBTY"
+		},
+		{
 			"key": "epo1",
 			"name": "🔞epo1",
 			"type": 4,
 			"api": "https://learnpython.ggff.net/epo1"
 		},
 		{
-			"key": "HLBTY",
-			"name": "🔞HLBTY",
+			"key": "cam4",
+			"name": "🔞cam4",
 			"type": 4,
-			"api": "https://learnpython.ggff.net/HLBTY"
+			"api": "https://learnpython.ggff.net/cam4"
 		},
 		{
 			"key": "HSTv",
