@@ -39,6 +39,12 @@
 			"api": "https://py.doube.eu.org/spider?site=DianYingTanTang"
 		},
 		{
+			"key": "土豆",
+			"name": "土豆",
+			"type": 4,
+			"api": "https://learnpython.ggff.net/py_tudou"
+		},
+		{
 			"key": "爱瓜TV",
 			"name": "爱瓜TV",
 			"type": 4,
