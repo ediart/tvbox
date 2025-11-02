@@ -1,177 +1,171 @@
 {
-  "spider": "https://jihulab.com/bhjk1/vip/-/raw/main/danmu.jar",
-  "wallpaper": "http://tool.teyonds.com/api/",
-  "logo": "http://xn--5mq46jrwl99dn01d.top/音乐/java/logo.jpg",
-  "lives": [
-    {
-      "name": "涛涛live",
-      "type": 0,
-      "playerType": 2,
-      "url": "http://xn--5mq46jrwl99dn01d.top/音乐/java/lib/yinyue.png"
-    }
-  ],
-  "sites": [
-    {
-      "key": "哔哩",
-      "name": "音乐接口每周五更新",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "http://xn--5mq46jrwl99dn01d.top/音乐/java/哔哩MTV.json"
-    },
-    {
-      "key": "js_车载MV",
-      "name": "车载🎧音乐",
-      "type": 3,
-      "api": "http://xn--5mq46jrwl99dn01d.top/音乐/java/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://xn--5mq46jrwl99dn01d.top/音乐/java/车载MV.js"
-    },
-    {
-      "key": "yinyue",
-      "name": "榜单🎧音乐",
-      "type": 3,
-      "api": "csp_Kugou",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
-      "key": "分类音乐",
-      "name": "分类🎧音乐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "http://xn--5mq46jrwl99dn01d.top/音乐/java/yinyue.json"
-    },
-    {
-      "key": "hipy_js_KTV歌厅[听]",
-      "name": "明星🎧歌厅",
-      "type": 3,
-      "api": "http://xn--5mq46jrwl99dn01d.top/音乐/java/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "http://xn--5mq46jrwl99dn01d.top/音乐/java/KTV歌厅.js"
-    },
-    {
-      "key": "TAOIktv",
-      "name": "明星🎧备用",
-      "type": 3,
-      "api": "csp_WexIktv",
-      "jar": "http://xn--5mq46jrwl99dn01d.top/音乐/java/wex.txt",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "舞蹈音乐",
-      "name": "舞蹈🎧音乐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "http://xn--5mq46jrwl99dn01d.top/音乐/java/吾爱舞蹈.json"
-    },
-    {
-      "key": "哟哟音乐",
-      "name": "动感🎧哟哟",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "http://xn--5mq46jrwl99dn01d.top/音乐/java/DJyyyyw.json"
-    },
-    {
-      "key": "酷奇",
-      "name": "酷奇🎧MV",
-      "type": 3,
-      "api": "http://xn--5mq46jrwl99dn01d.top/音乐/java/lib/drpy2.min.js",
-      "ext": "http://xn--5mq46jrwl99dn01d.top/音乐/java/酷奇MV.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "吾爱演唱会",
-      "name": "哔哩🎧演唱",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://xn--5mq46jrwl99dn01d.top/音乐/java/吾爱演唱会.json"
-    },
-    {
-      "key": "直播转点播",
-      "name": "音乐🎧点播",
-      "type": 3,
-      "api": "http://xn--5mq46jrwl99dn01d.top/音乐/java/lib/zbzdb.js",
-      "ext": "http://www.jielifan.com/data/f_85446651.png"
-    },
-    {
-      "key": "drpy_js_蜻蜓FM",
-      "name": "蜻蜓🎧FM",
-      "type": 3,
-      "api": "http://xn--5mq46jrwl99dn01d.top/音乐/java/lib/drpy2.min.js",
-      "ext": "http://xn--5mq46jrwl99dn01d.top/音乐/java/蜻蜓FM.js",
-      "playerType": "2"
-    },
-    {
-      "key": "hipy_js_种子音乐[听]",
-      "name": "种子🎧音乐",
-      "type": 3,
-      "api": "http://xn--5mq46jrwl99dn01d.top/音乐/java/lib/drpy3.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "http://xn--5mq46jrwl99dn01d.top/音乐/java/种子音乐[听].js"
-    },
-    {
-      "key": "hipy_js_贝乐虎[儿]",
-      "name": "贝乐🎧儿歌",
-      "type": 3,
-      "api": "http://xn--5mq46jrwl99dn01d.top/音乐/java/lib/drpy3.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "http://xn--5mq46jrwl99dn01d.top/音乐/java/贝乐虎[儿].js"
-    },
-    {
-      "key": "健身瑜伽",
-      "name": "健身🎧瑜伽",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "http://xn--5mq46jrwl99dn01d.top/音乐/java/哔哩合集2.json"
-    },
-    {
-      "key": "公告",
-      "name": "定期重置清理垃圾",
-      "type": 3,
-      "api": "",
-      "searchable": 1,
-      "changeable": 0
-    }
-  ]
+	"spider": "https://jihulab.com/bhjk1/vip/-/raw/main/danmu.jar",
+	"wallpaper": "http://tool.teyonds.com/api/",
+	"logo": "http://mzrjk.top/音乐/java/logo.jpg",
+	"lives": [{
+		"name": "涛涛live",
+		"type": 0,
+		"playerType": 2,
+		"url": "http://mzrjk.top/音乐/java/lib/yinyue.png"
+	}],
+	"sites": [{
+		"key": "哔哩",
+		"name": "音乐接口每周五更新",
+		"type": 3,
+		"api": "csp_Bili",
+		"searchable": 1,
+		"filterable": 1,
+		"changeable": 0,
+		"ext": "http://mzrjk.top/音乐/java/哔哩MTV.json"
+	}, {
+		"key": "csp_Kugou",
+		"name": "某狗🎧音乐",
+		"type": 3,
+		"api": "csp_Kugou",
+		"jar": "https://mzrjk.top/音乐/java/Yoursmile.jar",
+		"playerType": 2,
+		"ext": {
+			"classes": [{
+				"type_name": "酷狗",
+				"type_id": "kugou"
+			}]
+		}
+	}, {
+		"key": "js_车载MV",
+		"name": "车载🎧音乐",
+		"type": 3,
+		"api": "http://mzrjk.top/音乐/java/lib/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://mzrjk.top/音乐/java/车载MV.js"
+	}, {
+		"key": "yinyue",
+		"name": "榜单🎧音乐",
+		"type": 3,
+		"api": "csp_Kugou",
+		"searchable": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"style": {
+			"type": "rect",
+			"ratio": 1.433
+		}
+	}, {
+		"key": "分类音乐",
+		"name": "分类🎧音乐",
+		"type": 3,
+		"api": "csp_Bili",
+		"searchable": 1,
+		"filterable": 1,
+		"changeable": 0,
+		"ext": "http://mzrjk.top/音乐/java/yinyue.json"
+	}, {
+		"key": "hipy_js_KTV歌厅[听]",
+		"name": "明星🎧歌厅",
+		"type": 3,
+		"api": "http://mzrjk.top/音乐/java/lib/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "http://mzrjk.top/音乐/java/KTV歌厅.js"
+	}, {
+		"key": "TAOIktv",
+		"name": "明星🎧备用",
+		"type": 3,
+		"api": "csp_WexIktv",
+		"jar": "http://mzrjk.top/音乐/java/wex.txt",
+		"searchable": 1,
+		"changeable": 0
+	}, {
+		"key": "舞蹈音乐",
+		"name": "舞蹈🎧音乐",
+		"type": 3,
+		"api": "csp_Bili",
+		"searchable": 0,
+		"filterable": 1,
+		"changeable": 0,
+		"ext": "http://mzrjk.top/音乐/java/吾爱舞蹈.json"
+	}, {
+		"key": "哟哟音乐",
+		"name": "动感🎧哟哟",
+		"type": 3,
+		"api": "csp_XYQHiker",
+		"searchable": 1,
+		"filterable": 1,
+		"changeable": 0,
+		"ext": "http://mzrjk.top/音乐/java/DJyyyyw.json"
+	}, {
+		"key": "酷奇",
+		"name": "酷奇🎧MV",
+		"type": 3,
+		"api": "http://mzrjk.top/音乐/java/lib/drpy2.min.js",
+		"ext": "http://mzrjk.top/音乐/java/酷奇MV.js",
+		"style": {
+			"type": "rect",
+			"ratio": 1.597
+		},
+		"searchable": 0,
+		"quickSearch": 0,
+		"changeable": 0
+	}, {
+		"key": "吾爱演唱会",
+		"name": "哔哩🎧演唱",
+		"type": 3,
+		"api": "csp_Bili",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "http://mzrjk.top/音乐/java/吾爱演唱会.json"
+	}, {
+		"key": "直播转点播",
+		"name": "音乐🎧点播",
+		"type": 3,
+		"api": "http://mzrjk.top/音乐/java/lib/zbzdb.js",
+		"ext": "http://www.jielifan.com/data/f_85446651.png"
+	}, {
+		"key": "drpy_js_蜻蜓FM",
+		"name": "蜻蜓🎧FM",
+		"type": 3,
+		"api": "http://mzrjk.top/音乐/java/lib/drpy2.min.js",
+		"ext": "http://mzrjk.top/音乐/java/蜻蜓FM.js",
+		"playerType": "2"
+	}, {
+		"key": "hipy_js_种子音乐[听]",
+		"name": "种子🎧音乐",
+		"type": 3,
+		"api": "http://mzrjk.top/音乐/java/lib/drpy3.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "http://mzrjk.top/音乐/java/种子音乐[听].js"
+	}, {
+		"key": "hipy_js_贝乐虎[儿]",
+		"name": "贝乐🎧儿歌",
+		"type": 3,
+		"api": "http://mzrjk.top/音乐/java/lib/drpy3.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "http://mzrjk.top/音乐/java/贝乐虎[儿].js"
+	}, {
+		"key": "健身瑜伽",
+		"name": "健身🎧瑜伽",
+		"type": 3,
+		"api": "csp_Bili",
+		"searchable": 0,
+		"filterable": 1,
+		"changeable": 0,
+		"ext": "http://mzrjk.top/音乐/java/哔哩合集2.json"
+	}, {
+		"key": "公告",
+		"name": "定期重置清理垃圾",
+		"type": 3,
+		"api": "",
+		"searchable": 1,
+		"changeable": 0
+	}]
 }
