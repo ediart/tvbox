@@ -76,6 +76,30 @@
 			"api": "https://py.doube.eu.org/spider?site=OleVod"
 		},
 		{
+			"key": "epo1",
+			"name": "🔞epo1",
+			"type": 4,
+			"api": "https://learnpython.ggff.net/epo1"
+		},
+		{
+			"key": "HLBTY",
+			"name": "🔞HLBTY",
+			"type": 4,
+			"api": "https://learnpython.ggff.net/HLBTY"
+		},
+		{
+			"key": "HSTv",
+			"name": "🔞HSTv",
+			"type": 4,
+			"api": "https://learnpython.ggff.net/HSTv"
+		},
+		{
+			"key": "ThePorn",
+			"name": "🔞ThePorn",
+			"type": 4,
+			"api": "https://learnpython.ggff.net/ThePorn"
+		},
+		{
 			"key": "Phb",
 			"name": "🔞Phb",
 			"type": 4,
