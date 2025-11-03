@@ -82,6 +82,12 @@
 			"api": "https://py.doube.eu.org/spider?site=OleVod"
 		},
 		{
+            "key": "py集合",
+            "name": "py集合",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/py.php"
+        },
+		{
 			"api": "https://learnpython.ggff.net/Xvd",
 			"key": "Xvd",
 			"name": "🔞Xvd",
