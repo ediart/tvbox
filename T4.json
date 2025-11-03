@@ -40,7 +40,7 @@
 		},
 		{
 			"key": "土豆",
-			"name": "土豆",
+			"name": "土豆视频",
 			"type": 4,
 			"api": "https://learnpython.ggff.net/py_tudou"
 		},
@@ -96,7 +96,7 @@
 		{
 			"api": "https://learnpython.ggff.net/rsp",
 			"key": "rsp",
-			"name": "肉视频",
+			"name": "🔞肉视频",
 			"type": 4
 		},
 		{
