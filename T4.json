@@ -88,6 +88,12 @@
             "api": "http://zhangqun1818.serv00.net/py.php"
         },
 		{
+            "key": "php在线",
+            "name": "php在线",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/php.php"
+        },
+		{
 			"api": "https://learnpython.ggff.net/Xvd",
 			"key": "Xvd",
 			"name": "🔞Xvd",
