@@ -1,171 +1,175 @@
 {
-	"spider": "https://jihulab.com/bhjk1/vip/-/raw/main/danmu.jar",
-	"wallpaper": "http://tool.teyonds.com/api/",
-	"logo": "http://mzrjk.top/音乐/java/logo.jpg",
-	"lives": [{
-		"name": "涛涛live",
-		"type": 0,
-		"playerType": 2,
-		"url": "http://mzrjk.top/音乐/java/lib/yinyue.png"
-	}],
+	"spider": "https://xn--fjq53n.xyz/Ting/jar/xyqxbpq.jar",
 	"sites": [{
-		"key": "哔哩",
-		"name": "音乐接口每周五更新",
-		"type": 3,
-		"api": "csp_Bili",
-		"searchable": 1,
-		"filterable": 1,
-		"changeable": 0,
-		"ext": "http://mzrjk.top/音乐/java/哔哩MTV.json"
-	}, {
-		"key": "csp_Kugou",
-		"name": "某狗🎧音乐",
-		"type": 3,
-		"api": "csp_Kugou",
-		"jar": "https://mzrjk.top/音乐/java/Yoursmile.jar",
-		"playerType": 2,
-		"ext": {
-			"classes": [{
-				"type_name": "酷狗",
-				"type_id": "kugou"
-			}]
-		}
-	}, {
-		"key": "js_车载MV",
-		"name": "车载🎧音乐",
-		"type": 3,
-		"api": "http://mzrjk.top/音乐/java/lib/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://mzrjk.top/音乐/java/车载MV.js"
-	}, {
-		"key": "yinyue",
-		"name": "榜单🎧音乐",
-		"type": 3,
-		"api": "csp_Kugou",
-		"searchable": 1,
-		"filterable": 1,
-		"changeable": 1,
-		"style": {
-			"type": "rect",
-			"ratio": 1.433
-		}
-	}, {
-		"key": "分类音乐",
-		"name": "分类🎧音乐",
-		"type": 3,
-		"api": "csp_Bili",
-		"searchable": 1,
-		"filterable": 1,
-		"changeable": 0,
-		"ext": "http://mzrjk.top/音乐/java/yinyue.json"
-	}, {
-		"key": "hipy_js_KTV歌厅[听]",
-		"name": "明星🎧歌厅",
-		"type": 3,
-		"api": "http://mzrjk.top/音乐/java/lib/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "http://mzrjk.top/音乐/java/KTV歌厅.js"
-	}, {
-		"key": "TAOIktv",
-		"name": "明星🎧备用",
-		"type": 3,
-		"api": "csp_WexIktv",
-		"jar": "http://mzrjk.top/音乐/java/wex.txt",
-		"searchable": 1,
-		"changeable": 0
-	}, {
-		"key": "舞蹈音乐",
-		"name": "舞蹈🎧音乐",
-		"type": 3,
-		"api": "csp_Bili",
-		"searchable": 0,
-		"filterable": 1,
-		"changeable": 0,
-		"ext": "http://mzrjk.top/音乐/java/吾爱舞蹈.json"
-	}, {
-		"key": "哟哟音乐",
-		"name": "动感🎧哟哟",
-		"type": 3,
-		"api": "csp_XYQHiker",
-		"searchable": 1,
-		"filterable": 1,
-		"changeable": 0,
-		"ext": "http://mzrjk.top/音乐/java/DJyyyyw.json"
-	}, {
-		"key": "酷奇",
-		"name": "酷奇🎧MV",
-		"type": 3,
-		"api": "http://mzrjk.top/音乐/java/lib/drpy2.min.js",
-		"ext": "http://mzrjk.top/音乐/java/酷奇MV.js",
-		"style": {
-			"type": "rect",
-			"ratio": 1.597
+			"key": "啊哈DJ网",
+			"name": "🎵啊哈DJ｜音乐",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://xn--fjq53n.xyz/Ting/yinyue/闪闪音乐网.json"
 		},
-		"searchable": 0,
-		"quickSearch": 0,
-		"changeable": 0
-	}, {
-		"key": "吾爱演唱会",
-		"name": "哔哩🎧演唱",
-		"type": 3,
-		"api": "csp_Bili",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "http://mzrjk.top/音乐/java/吾爱演唱会.json"
-	}, {
-		"key": "直播转点播",
-		"name": "音乐🎧点播",
-		"type": 3,
-		"api": "http://mzrjk.top/音乐/java/lib/zbzdb.js",
-		"ext": "http://www.jielifan.com/data/f_85446651.png"
-	}, {
-		"key": "drpy_js_蜻蜓FM",
-		"name": "蜻蜓🎧FM",
-		"type": 3,
-		"api": "http://mzrjk.top/音乐/java/lib/drpy2.min.js",
-		"ext": "http://mzrjk.top/音乐/java/蜻蜓FM.js",
-		"playerType": "2"
-	}, {
-		"key": "hipy_js_种子音乐[听]",
-		"name": "种子🎧音乐",
-		"type": 3,
-		"api": "http://mzrjk.top/音乐/java/lib/drpy3.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "http://mzrjk.top/音乐/java/种子音乐[听].js"
-	}, {
-		"key": "hipy_js_贝乐虎[儿]",
-		"name": "贝乐🎧儿歌",
-		"type": 3,
-		"api": "http://mzrjk.top/音乐/java/lib/drpy3.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "http://mzrjk.top/音乐/java/贝乐虎[儿].js"
-	}, {
-		"key": "健身瑜伽",
-		"name": "健身🎧瑜伽",
-		"type": 3,
-		"api": "csp_Bili",
-		"searchable": 0,
-		"filterable": 1,
-		"changeable": 0,
-		"ext": "http://mzrjk.top/音乐/java/哔哩合集2.json"
-	}, {
-		"key": "公告",
-		"name": "定期重置清理垃圾",
-		"type": 3,
-		"api": "",
-		"searchable": 1,
-		"changeable": 0
-	}]
+		{
+			"key": "HIFI音乐APP",
+			"name": "🎵HIFI｜音乐",
+			"type": 3,
+			"api": "https://xn--fjq53n.xyz/Ting/yinyue/HIFI音乐APP.py"
+		},
+		{
+			"key": "YYMP3音乐网",
+			"name": "🎵YYMP3｜音乐",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://xn--fjq53n.xyz/Ting/yinyue/YYMP3音乐网.json"
+		},
+		{
+			"key": "爱听音乐网",
+			"name": "🎵爱听｜音乐",
+			"type": 3,
+			"api": "https://xn--fjq53n.xyz/Ting/yinyue/爱听音乐网.py"
+		},
+		{
+			"key": "枫叶音乐",
+			"name": "🎵枫叶｜音乐",
+			"type": 3,
+			"api": "https://xn--fjq53n.xyz/Ting/yinyue/枫叶音乐.py"
+		},
+		{
+			"key": "枫叶音乐1",
+			"name": "🎵枫叶1｜音乐",
+			"type": 3,
+			"api": "https://xn--fjq53n.xyz/Ting/yinyue/枫叶音乐1.py"
+		},
+		{
+			"key": "闪闪音乐网",
+			"name": "🎵闪闪｜音乐",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://xn--fjq53n.xyz/Ting/yinyue/闪闪音乐网.json"
+		},
+		{
+			"key": "深港音乐汇",
+			"name": "🎵深港｜音乐",
+			"type": 3,
+			"api": "https://xn--fjq53n.xyz/Ting/yinyue/深港音乐汇.py"
+		},
+		{
+			"key": "网易云音乐",
+			"name": "🎵网易云｜音乐",
+			"type": 3,
+			"api": "https://xn--fjq53n.xyz/Ting/yinyue/网易云音乐.py"
+		},
+		{
+			"key": "网易云音乐1",
+			"name": "🎵网易云1｜音乐",
+			"type": 3,
+			"api": "https://xn--fjq53n.xyz/Ting/yinyue/网易云音乐1.py"
+		},
+		{
+			"key": "爱玩音乐网",
+			"name": "🎼爱玩┃音乐(l)",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": {
+				"作者": "🐰兔爷🐇",
+				"站名": "爱玩音乐网",
+				"编码": "UTF-8",
+				"请求头": "User-Agent$MOBILE_UA",
+				"主页url": "https://www.22a5.com/mvlist/index.html",
+				"首页": "200",
+				"起始页": "1",
+				"分类url": "/mvlist/{cateId}/{catePg}.html;;DrcRA",
+				"分类": "全部$index#华语精选$huayu#日韩精选$rihan#欧美精选$oumei",
+				"数组": "<div class=\"pic&&</li",
+				"图片": "src=\"&&\"",
+				"标题": "title=\"&&\"",
+				"副标题": "title=\"&&\"",
+				"链接": "href=\"&&\"",
+				"简介": "请不要相信任何广告！！！祝您观影愉快！🐰兔爷🐇为您介绍剧情👉-+所属专辑：&&温馨提示",
+				"跳转播放链接": "https://www.22a5.com+quality:\\[*url:'&&'",
+				"搜索url": "/mvlist/id/{pg}.html?wd={wd}",
+				"搜索模式": "1"
+			}
+		},
+		{
+			"key": "米兔音乐",
+			"name": "🎼米兔┃音乐",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": {
+				"首页": "0",
+				"请求头": "手机",
+				"分类url": "https://www.qqmp3.vip/api/{cateId}",
+				"分类": "热门歌曲$songs.php#随机歌曲$songs.php?type=rand",
+				"数组": "data",
+				"图片": "pic",
+				"标题": "name",
+				"副标题": "artist",
+				"链接": "rid",
+				"链接前缀": "https://www.qqmp3.vip/api/kw.php?rid=",
+				"链接后缀": "&type=json&level=exhigh&lrc=true",
+				"线路数组": "qua&&,",
+				"线路标题": "lity\": \"&&\"",
+				"简介": "lrc\": \"&&\"",
+				"演员": "artist\": \"&&\"",
+				"导演": "album\": \"&&\"",
+				"影片状态": "歌曲时长:+duration\": \"&&\"",
+				"播放数组": "{&&}",
+				"列表图片": "pic\": \"&&\"",
+				"播放列表": "quality&&lrc",
+				"播放标题": "size\": \"&&\"",
+				"播放链接": "url\": \"&&\"",
+				"免嗅": "0",
+				"嗅探词": ".mp3",
+				"搜索url": "https://www.qqmp3.vip/api/songs.php?type=search&keyword={wd}",
+				"搜索二次截取": "",
+				"搜索数组": "data",
+				"搜索图片": "pic",
+				"搜索标题": "name",
+				"搜索副标题": "artist",
+				"搜索链接": "rid",
+				"搜索链接前缀": "https://www.qqmp3.vip/api/kw.php?rid="
+			}
+		},
+		{
+			"key": "悦听音乐网",
+			"name": "🎼悦听┃音乐(l)",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": {
+				"作者": "🐰兔爷🐇",
+				"站名": "悦听音乐网",
+				"编码": "UTF-8",
+				"请求头": "User-Agent$MOBILE_UA",
+				"主页url": "https://www.yueting.net",
+				"首页": "最新mv$200",
+				"起始页": "1",
+				"分类url": "/{cateId}/page/{catePg};;DrcRA",
+				"分类": "最新mv&最新歌曲",
+				"分类值": "mv&song",
+				"数组": "默认--<div id=\"post-&&</h||最新歌曲--<div id=\"post-&&</div",
+				"标题": "默认--alt=\"&&\"||最新歌曲--title=\"* &&\"",
+				"图片": "默认--data-original=\"&&\"+src=\"&&\"||最新歌曲--https://pics3.baidu.com/feed/d53f8794a4c27d1e2ce6e7424ef43b60dcc43820.jpeg",
+				"副标题": "默认--bookmark\">* -&&<||最新歌曲--/> *-&&<",
+				"链接": "href=\"&&\"",
+				"简介": "介绍：</h2>&&<a+aplayer-lrc-content\">&&<[替换:\\[*\\]>>空]"
+			}
+		}
+	]
 }
