@@ -63,30 +63,40 @@
 			"filterable": 0,
 			"changeable": 0,
 			"ext": {}
-		}, {
-			"key": "动态py",
-			"name": "永乐",
-			"type": 4,
-			"api": "http://zhangqun1818.serv00.net:5052/?sp=永乐视频",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		}, {
-			"key": "两个BT",
-			"name": "两个BT",
-			"type": 4,
-			"api": "http://zhangqun1818.serv00.net:5052/?sp=两个BT",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
+		},
+		{
+			"key": "LIBVIO",
+			"name": "LIBVIO",
+			"type": 3,
+			"api": "./py/LIBVIO.py",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0,
+			"changeable": 0
+		},
+		{
+			"key": "今日看料",
+			"name": "今日看料",
+			"type": 3,
+			"api": "./py/今日看料.py",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0,
+			"changeable": 0
+		},
+		{
+			"key": "91pro",
+			"name": "91pro",
+			"type": 3,
+			"api": "./py/91pro.py",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0,
+			"changeable": 0
 		},
 		{
 			"key": "456movie",
-			"name": "456movie)",
+			"name": "456movie",
 			"type": 3,
 			"api": "./py/456movie.py",
 			"searchable": 1,
