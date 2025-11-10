@@ -530,16 +530,6 @@
             "filterable": 1
         },
         {
-            "key": "锦鲤短剧",
-            "name": "锦鲤｜短剧",
-            "type": 3,
-            "api": "./py/锦鲤短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "剧王短剧",
             "name": "剧王｜短剧",
             "type": 3,
@@ -624,15 +614,6 @@
             "name": "饺子｜影视",
             "type": 3,
             "api": "csp_Jiaozi"
-        },
-        {
-            "key": "低端影视",
-            "name": "低端｜影视",
-            "type": 3,
-            "api": "csp_Ddys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "瓜子影视",
