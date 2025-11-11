@@ -43,8 +43,8 @@
             "ext": "https://v.catcs.cc/api.php/v1.vod"
         },
         {
-            "key": "冷心",
-            "name": "冷心｜APP",
+            "key": "火猫",
+            "name": "火猫｜APP",
             "type": 3,
             "api": "csp_AppMuou",
             "ext": {
@@ -65,15 +65,15 @@
             }
         },
         {
-            "key": "爱影",
-            "name": "爱影｜APP",
+            "key": "一一",
+            "name": "一一｜APP",
             "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppQi",
+            "api": "csp_AppMuou",
+            "searchable": 1,
+            "changeable": 1,
             "ext": {
-                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt",
-                "dataKey": "sada21321sdq231d",
-                "dataIv": "sada21321sdq231d"
+                "url": "http://app.yiyi521.top",
+                "name": "YIYI影视"
             }
         },
         {
@@ -508,6 +508,28 @@
             "name": "三六零｜视频",
             "type": 3,
             "api": "csp_SP360"
+        },
+        {
+            "key": "快映",
+            "name": "快映｜4K",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./json/快映.json"
+        },
+        {
+            "key": "玩偶",
+            "name": "玩偶｜4K",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./json/玩偶.json"
         },
         {
             "key": "星芽短剧",
