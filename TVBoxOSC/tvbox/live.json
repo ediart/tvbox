@@ -17,22 +17,16 @@
 			"ua": "bingcha/1.1 (mianfeifenxiang) "
 		},
 		{
+			"name": "4GTV",
+			"url": "http://vhr.dpdns.org:8080/4gtv.php"
+		},
+		{
 			"name": "英超+NBA",
 			"url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/epl_nba.m3u"
 		},
 		{
 			"name": "港台",
 			"url": "https://php.946985.filegear-sg.me/jackTV.m3u"
-		},
-		{
-			"name": "MyTvSuper",
-			"url": "http://xtvantsc.xyz/mytvsuper.m3u"
-		},
-		{
-			"name": "4GTV",
-			"url": "http://xtvantsc.xyz/litv_ts.php",
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 		{
 			"name": "catvod",
