@@ -215,6 +215,18 @@
             }
         },
         {
+            "key": "茉莉",
+            "name": "茉莉｜APP",
+            "type": 3,
+            "searchable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
+                "dataKey": "88689667dce61725",
+                "dataIv": "88689667dce61725"
+            }
+        },
+        {
             "key": "坚果",
             "name": "坚果｜APP",
             "type": 3,
@@ -509,6 +521,25 @@
             "api": "csp_SP360"
         },
         {
+            "key": "玩偶",
+            "name": "玩偶｜4K",
+            "type": 3,
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://www.wogg.lol",
+                    "https://wogg.xxooo.cf",
+                    "https://www.wogg.one",
+                    "https://wogg.333232.xyz",
+                    "https://woggpan.888484.xyz"
+                ]
+            }
+        },
+        {
             "key": "快映",
             "name": "快映｜4K",
             "type": 3,
@@ -517,18 +548,11 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./json/快映.json"
-        },
-        {
-            "key": "玩偶",
-            "name": "玩偶｜4K",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./json/玩偶.json"
+            "ext": {
+                "site": [
+                    "http://xsayang.fun:12512"
+                ]
+            }
         },
         {
             "key": "星芽短剧",
