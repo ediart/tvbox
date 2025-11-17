@@ -70,9 +70,9 @@
 			"type": 3,
 			"api": "./py/好莱坞.py",
 			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1
 		},
 		{
 			"key": "LIBVIO",
@@ -80,9 +80,9 @@
 			"type": 3,
 			"api": "./py/LIBVIO.py",
 			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1
 		},
 		{
 			"key": "今日看料",
