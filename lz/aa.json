@@ -256,16 +256,24 @@
 			"ua": "bingcha/1.1 (mianfeifenxiang) "
 		},
 		{
+			"name": "Sports",
+			"url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/sports.m3u"
+		},
+		{
+			"name": "港台",
+			"url": "http://8.220.193.88:5000/?type=m3u&proxy=true"
+		},
+		{
 			"name": "英超+NBA",
 			"url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/epl_nba.m3u"
 		},
 		{
-			"name": "港台",
+			"name": "JackTV",
 			"url": "https://php.946985.filegear-sg.me/jackTV.m3u"
 		},
 		{
 			"name": "MyTvSuper",
-			"url": "http://xtvantsc.xyz/mytvsuper.m3u"
+			"url": "http://xtvantsc.xyz/mytv.m3u"
 		},
 		{
 			"name": "4GTV",
