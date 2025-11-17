@@ -2,25 +2,13 @@
 	"name": "影视",
 	"list": [{
 			"name": "ok影视手机版",
-			"url": "https://gb.hfr1107.top/https://github.com/FongMi/Release/blob/okjack/apk/release/mobile-arm64_v8a.apk",
-			"icon": "https://d.dayeapp.net/y.jpg",
-			"version": "py-v8a"
-		},
-		{
-			"name": "ok影视手机版",
-			"url": "https://gb.hfr1107.top/https://github.com/FongMi/Release/blob/okjack/apk/release/mobile-armeabi_v7a.apk",
-			"icon": "https://d.dayeapp.net/y.jpg",
-			"version": "py-v7a"
-		},
-		{
-			"name": "OK影视电视版",
-			"url": "https://gb.hfr1107.top/https://github.com/FongMi/Release/blob/okjack/apk/release/leanback-arm64_v8a.apk",
+			"url": "https://h5ai.celin.netlib.re/Android/OK影视-手机版.apk",
 			"icon": "https://d.dayeapp.net/y.jpg",
 			"version": "py-v8a"
 		},
 		{
 			"name": "OK影视电视版",
-			"url": "https://gb.hfr1107.top/https://github.com/FongMi/Release/blob/okjack/apk/release/leanback-armeabi_v7a.apk",
+			"url": "https://h5ai.celin.netlib.re/Android/OK影视-电视版.apk",
 			"icon": "https://d.dayeapp.net/y.jpg",
 			"version": "py-v7a"
 		},
@@ -51,3 +39,4 @@
 	]
 
 }]
+
