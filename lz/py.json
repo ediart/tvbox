@@ -65,6 +65,16 @@
 			"ext": {}
 		},
 		{
+			"key": "飞快TV",
+			"name": "飞快TV",
+			"type": 3,
+			"api": "./py/飞快TV.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1
+		},
+		{
 			"key": "好莱坞",
 			"name": "好莱坞",
 			"type": 3,
