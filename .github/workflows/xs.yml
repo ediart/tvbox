@@ -21,7 +21,7 @@ jobs:
           cd temp_download
           
           echo "开始下载文件..."
-          curl -L -o "single_line.zip" "https://raw.kkgithub.com/PizazzGY/NewTVBox/main/单线路.zip"
+          curl -L -o "single_line.zip" "https://9877.kstore.space/TVBox/单线路.zip"
           
           if [ -f "single_line.zip" ]; then
             echo "文件下载成功，开始解压..."
