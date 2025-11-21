@@ -1031,18 +1031,6 @@
             "ext": "https://xl01.com.de"
         },
         {
-            "key": "移动盘搜",
-            "name": "移动｜盘搜",
-            "type": 3,
-            "api": "csp_PanSou139",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "cloudDrives": "mobile"
-            }
-        },
-        {
             "key": "88看球",
             "name": "88｜看球",
             "type": 3,
