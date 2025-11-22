@@ -1,5 +1,5 @@
 {
-	"spider": "https://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar",
+	"spider": "https://0890.dpdns.org/wnqiwnquidwiunddneudne/custom_spider.jar",
 	"logo": "https://gitee.com/amg99/tvjson/raw/master/img/dysmt.gif",
 	"sites": [{
 			"name": "💬嗷嗚彈幕",
@@ -21,7 +21,7 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://9763.kstore.space/wnqiwnquidwiunddneudne/json/guazi.json"
+			"ext": "https://0890.dpdns.org/wnqiwnquidwiunddneudne/json/guazi.json"
 		},
 		{
 			"name": "🎭杜北",
@@ -32,7 +32,7 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://9763.kstore.space/wnqiwnquidwiunddneudne/json/dubk.json"
+			"ext": "https://0890.dpdns.org/wnqiwnquidwiunddneudne/json/dubk.json"
 		},
 		{
 			"name": "🎪伊外",
@@ -53,7 +53,7 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://9763.kstore.space/wnqiwnquidwiunddneudne/json/jpian.json"
+			"ext": "https://0890.dpdns.org/wnqiwnquidwiunddneudne/json/jpian.json"
 		},
 		{
 			"name": "🥇金牌",
