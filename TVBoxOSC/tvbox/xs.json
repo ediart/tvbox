@@ -601,12 +601,29 @@
             "api": "csp_SP360"
         },
         {
+            "key": "清影",
+            "name": "清影｜4K",
+            "type": 3,
+            "api": "csp_PanWebShareCloudQY",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "http://www.revohd.com"
+                ]
+            }
+        },
+        {
             "key": "盘它",
             "name": "盘它｜4K",
             "type": 3,
             "api": "csp_PanWebShareCloudPT",
             "searchable": 1,
             "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
             "style": {
                 "type": "list"
             }
