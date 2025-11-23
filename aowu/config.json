@@ -16,14 +16,13 @@
             "name": "🎉Bili",
             "key": "🎉Bili",
             "type": 3,
-            "api": "csp_BiliAmns",
+            "api": "csp_Bili",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": {
-                "json": "https://gitee.com/amg99/tvjson/raw/master/spider/json/bili.json",
-                "cookie": ""
+			"jar": "./bili.jar",
+            "ext": "./bili.json"
             }
         },
 		{
