@@ -65,6 +65,13 @@
 			"ext": {}
 		},
 		{
+			"name": "快直播(py)",
+			"type": 3,
+			"url": "",
+			"api": "./快直播.min.py",
+			"ext": {}
+		},
+		{
 			"key": "飞快TV",
 			"name": "飞快TV",
 			"type": 3,
