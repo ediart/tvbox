@@ -17,6 +17,10 @@
 			"name": "蜡笔｜4K",
 			"type": 3,
 			"api": "csp_HBT4",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
 			"ext": "http://154.219.113.13:4866/test.php?site=labi###labi"
 		},
 		{
@@ -24,6 +28,10 @@
 			"name": "至臻｜4K",
 			"type": 3,
 			"api": "csp_HBT4",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
 			"ext": "http://154.219.113.13:4866/test.php?site=mihdr###mihdr"
 		},
 		{
@@ -31,6 +39,10 @@
 			"name": "二小｜4K",
 			"type": 3,
 			"api": "csp_HBT4",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
 			"ext": "http://154.219.113.13:4866/test.php?site=erxiao###erxiao"
 		},
 		{
@@ -38,6 +50,10 @@
 			"name": "讴歌｜4K",
 			"type": 3,
 			"api": "csp_HBT4",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
 			"ext": "http://154.219.113.13:4866/test.php?site=ouge###ouge"
 		}
 	],
