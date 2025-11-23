@@ -1,0 +1,96 @@
+{
+	"spider": "https://0890.dpdns.org/wnqiwnquidwiunddneudne/custom_spider.jar",
+	"wallpaper": "https://wp.upx8.com/api.php",
+	"sites": [{
+			"name": "嗷呜 | 豆瓣",
+			"key": "嗷嗚彈幕",
+			"type": 3,
+			"api": "csp_GoConfigAmns",
+			"indexs": 0,
+			"searchable": 0,
+			"filterable": 0,
+			"quickSearch": 0,
+			"changeable": 0
+		},
+		{
+			"key": "labi",
+			"name": "蜡笔｜4K",
+			"type": 3,
+			"jar": "./4k.jar",
+			"api": "csp_HBT4",
+			"ext": "http://154.219.113.13:4866/test.php?site=labi###labi"
+		},
+		{
+			"key": "mihdr",
+			"name": "至臻｜4K",
+			"type": 3,
+			"jar": "./4k.jar",
+			"api": "csp_HBT4",
+			"ext": "http://154.219.113.13:4866/test.php?site=mihdr###mihdr"
+		},
+		{
+			"key": "erxiao",
+			"name": "二小｜4K",
+			"type": 3,
+			"api": "csp_HBT4",
+			"jar": "./4k.jar",
+			"ext": "http://154.219.113.13:4866/test.php?site=erxiao###erxiao"
+		},
+		{
+			"key": "ouge",
+			"name": "讴歌｜4K",
+			"type": 3,
+			"api": "csp_HBT4",
+			"jar": "./4k.jar",
+			"ext": "http://154.219.113.13:4866/test.php?site=ouge###ouge"
+		}
+	],
+	"lives": [{
+			"name": "冰茶",
+			"type": 0,
+			"playerType": 2,
+			"url": "https://bc.188766.xyz/?url=https://live.188766.xyz&mishitong=true&mima=mianfeibuhuaqian&huikan=1&json=true",
+			"ua": "bingcha/1.1 (mianfeifenxiang) "
+		},
+		{
+			"name": "Sports",
+			"url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/sports.m3u"
+		},
+		{
+			"name": "港台",
+			"url": "http://8.220.193.88:5000/?type=m3u&proxy=true"
+		},
+		{
+			"name": "英超+NBA",
+			"url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/epl_nba.m3u"
+		},
+		{
+			"name": "Jacktv",
+			"url": "https://php.946985.filegear-sg.me/jackTV.m3u"
+		},
+		{
+			"name": "catvod",
+			"url": "https://iptv.catvod.com/tv.m3u"
+		},
+		{
+			"name": "catvod(备用)",
+			"url": "https://live.catvod.com/tv.m3u"
+		}
+	],
+	"headers": [{
+		"host": "hlsztemgsplive.miguvideo.com",
+		"header": {
+			"User-Agent": "bingcha/1.1 (mianfeifenxiang) "
+		}
+	}],
+	"proxy": [
+		"raw.githubusercontent.com"
+	],
+	"hosts": [
+		"hlsztemgsplive.miguvideo.com=hlsztemgsplive.miguvideo.com.b.cdn.chinamobile.com",
+		"push-rtmp-hs-spe-f5.douyincdn.com=source-fcdn-spe-push.s.bytefcdn.com",
+		"cdn9.163189.xyz=gcore.jsdelivr.net",
+		"cache.ott.fifalive.itv.cmvideo.cn=cache.ott.fifalive.itv.cmvideo.cn.e.cdn.chinamobile.com",
+		"studentlive.migucloud.com=base-v4v6-miguvideo.e.cdn.chinamobile.com"
+	]
+}
