@@ -3,14 +3,14 @@
 	"wallpaper": "https://wp.upx8.com/api.php",
 	"sites": [{
 			"key": "lf_js_search",
-			"name": "豆瓣",
+			"name": "豆瓣｜导航",
 			"type": 3,
 			"searchable": 0,
 			"changeable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"api": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/douban_min.js",
-			"indexs": 0
+		    "indexs": 0
+			"api": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/douban_min.js"
 		},
 		{
 			"key": "labi",
