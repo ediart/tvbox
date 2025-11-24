@@ -2,15 +2,16 @@
 	"spider": "./4k.jar",
 	"wallpaper": "https://wp.upx8.com/api.php",
 	"sites": [{
-			"key": "js_douban",
-			"name": "豆瓣｜导航",
+			"name": "嗷呜 | 豆瓣",
+			"key": "嗷嗚彈幕",
 			"type": 3,
-			"api": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/douban_min.js",
+			"api": "csp_GoConfigAmns",
 			"indexs": 0,
 			"searchable": 0,
-			"quickSearch": 0,
 			"filterable": 0,
-			"changeable": 0
+			"quickSearch": 0,
+			"changeable": 0,
+			"jar": "https://0890.dpdns.org/wnqiwnquidwiunddneudne/custom_spider.jar"
 		},
 		{
 			"key": "labi",
