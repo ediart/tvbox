@@ -13,50 +13,6 @@
 			"api": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/douban_min.js"
 		},
 		{
-			"key": "labi",
-			"name": "蜡笔｜4K",
-			"type": 3,
-			"api": "csp_HBT4",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": "http://154.219.113.13:4866/test.php?site=labi###labi"
-		},
-		{
-			"key": "mihdr",
-			"name": "至臻｜4K",
-			"type": 3,
-			"api": "csp_HBT4",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": "http://154.219.113.13:4866/test.php?site=mihdr###mihdr"
-		},
-		{
-			"key": "erxiao",
-			"name": "二小｜4K",
-			"type": 3,
-			"api": "csp_HBT4",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": "http://154.219.113.13:4866/test.php?site=erxiao###erxiao"
-		},
-		{
-			"key": "ouge",
-			"name": "讴歌｜4K",
-			"type": 3,
-			"api": "csp_HBT4",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": "http://154.219.113.13:4866/test.php?site=ouge###ouge"
-		},
-		{
 			"key": "duoduo_ok",
 			"name": "多多OK｜4K",
 			"type": 3,
