@@ -1,5 +1,4 @@
 {
-	"spider": "./4k.jar",
 	"wallpaper": "https://wp.upx8.com/api.php",
 	"sites": [{
 			"name": "嗷呜 | 豆瓣",
@@ -22,6 +21,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 1,
+			"jar": "./4k.jar",
 			"ext": "http://154.219.113.13:4866/test.php?site=labi###labi"
 		},
 		{
@@ -33,6 +33,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 1,
+			"jar": "./4k.jar",
 			"ext": "http://154.219.113.13:4866/test.php?site=mihdr###mihdr"
 		},
 		{
@@ -44,6 +45,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 1,
+			"jar": "./4k.jar",
 			"ext": "http://154.219.113.13:4866/test.php?site=erxiao###erxiao"
 		},
 		{
@@ -55,6 +57,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 1,
+			"jar": "./4k.jar",
 			"ext": "http://154.219.113.13:4866/test.php?site=ouge###ouge"
 		},
 		{
