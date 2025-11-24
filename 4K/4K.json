@@ -57,24 +57,6 @@
 			"ext": "http://154.219.113.13:4866/test.php?site=ouge###ouge"
 		},
 		{
-			"key": "kuaiying",
-			"name": "快映｜4K",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"api": "./js/appfox.js",
-			"ext": {
-				"host": "https://www.snys2.xyz:443",
-				"ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
-				"source_order": [
-					"tianyi-14",
-					"alist1"
-				]
-			}
-		},
-		{
 			"key": "duoduo_ok",
 			"name": "多多OK｜4K",
 			"type": 3,
