@@ -1,5 +1,5 @@
 {
-	"spider": "./ok.jar",
+	"spider": "./4k.jar",
 	"wallpaper": "https://wp.upx8.com/api.php",
 	"sites": [{
 			"key": "lf_js_search",
@@ -9,8 +9,52 @@
 			"changeable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"indexs": 0,
+		    "indexs": 0,
 			"api": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/douban_min.js"
+		},
+		{
+			"key": "labi",
+			"name": "蜡笔｜4K",
+			"type": 3,
+			"api": "csp_HBT4",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "http://154.219.113.13:4866/test.php?site=labi###labi"
+		},
+		{
+			"key": "mihdr",
+			"name": "至臻｜4K",
+			"type": 3,
+			"api": "csp_HBT4",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "http://154.219.113.13:4866/test.php?site=mihdr###mihdr"
+		},
+		{
+			"key": "erxiao",
+			"name": "二小｜4K",
+			"type": 3,
+			"api": "csp_HBT4",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "http://154.219.113.13:4866/test.php?site=erxiao###erxiao"
+		},
+		{
+			"key": "ouge",
+			"name": "讴歌｜4K",
+			"type": 3,
+			"api": "csp_HBT4",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "http://154.219.113.13:4866/test.php?site=ouge###ouge"
 		},
 		{
 			"key": "duoduo_ok",
@@ -25,7 +69,8 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			}
+			},
+			"jar": "./ok.jar"
 		},
 		{
 			"key": "erxiao_ok",
@@ -40,7 +85,8 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			}
+			},
+			"jar": "./ok.jar"
 		},
 		{
 			"key": "wogg_ok",
@@ -55,7 +101,8 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			}
+			},
+			"jar": "./ok.jar"
 		},
 		{
 			"key": "muou_ok",
@@ -70,7 +117,8 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			}
+			},
+			"jar": "./ok.jar"
 		},
 		{
 			"key": "zhizhen_ok",
@@ -85,7 +133,8 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			}
+			},
+			"jar": "./ok.jar"
 		},
 		{
 			"key": "labi_ok",
@@ -100,7 +149,8 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			}
+			},
+			"jar": "./ok.jar"
 		},
 		{
 			"key": "2star_ok",
@@ -114,7 +164,8 @@
 			"ext": {
 				"cookie": "./js/qk.js",
 				"baidu_cookie": "./js/bd.js"
-			}
+			},
+			"jar": "./ok.jar"
 		},
 		{
 			"key": "huban_ok",
@@ -129,7 +180,8 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			}
+			},
+			"jar": "./ok.jar"
 		},
 		{
 			"key": "xiaosa_ok",
@@ -144,7 +196,8 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			}
+			},
+			"jar": "./ok.jar"
 		}
 	],
 	"lives": [{
