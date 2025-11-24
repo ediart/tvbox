@@ -2,7 +2,7 @@
 	"spider": "https://0890.dpdns.org/wnqiwnquidwiunddneudne/custom_spider.jar",
 	"wallpaper": "https://wp.upx8.com/api.php",
 	"sites": [{
-			"name": "嗷呜 | 豆瓣",
+			"name": "豆瓣 | 嗷呜",
 			"key": "嗷嗚彈幕",
 			"type": 3,
 			"api": "csp_GoConfigAmns",
