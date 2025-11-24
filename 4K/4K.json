@@ -1,16 +1,16 @@
 {
-	"spider": "https://0890.dpdns.org/wnqiwnquidwiunddneudne/custom_spider.jar",
+	"spider": "./ok.jar",
 	"wallpaper": "https://wp.upx8.com/api.php",
 	"sites": [{
-			"name": "豆瓣 | 嗷呜",
-			"key": "嗷嗚彈幕",
+			"key": "lf_js_search",
+			"name": "豆瓣｜导航",
 			"type": 3,
-			"api": "csp_GoConfigAmns",
-			"indexs": 0,
 			"searchable": 0,
-			"filterable": 0,
+			"changeable": 0,
 			"quickSearch": 0,
-			"changeable": 0
+			"filterable": 0,
+			"indexs": 0,
+			"api": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/douban_min.js"
 		},
 		{
 			"key": "duoduo_ok",
@@ -25,8 +25,7 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			},
-			"jar": "./ok.jar"
+			}
 		},
 		{
 			"key": "erxiao_ok",
@@ -41,8 +40,7 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			},
-			"jar": "./ok.jar"
+			}
 		},
 		{
 			"key": "wogg_ok",
@@ -57,8 +55,7 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			},
-			"jar": "./ok.jar"
+			}
 		},
 		{
 			"key": "muou_ok",
@@ -73,8 +70,7 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			},
-			"jar": "./ok.jar"
+			}
 		},
 		{
 			"key": "zhizhen_ok",
@@ -89,8 +85,7 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			},
-			"jar": "./ok.jar"
+			}
 		},
 		{
 			"key": "labi_ok",
@@ -105,8 +100,7 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			},
-			"jar": "./ok.jar"
+			}
 		},
 		{
 			"key": "2star_ok",
@@ -120,8 +114,7 @@
 			"ext": {
 				"cookie": "./js/qk.js",
 				"baidu_cookie": "./js/bd.js"
-			},
-			"jar": "./ok.jar"
+			}
 		},
 		{
 			"key": "huban_ok",
@@ -136,8 +129,7 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			},
-			"jar": "./ok.jar"
+			}
 		},
 		{
 			"key": "xiaosa_ok",
@@ -152,8 +144,7 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			},
-			"jar": "./ok.jar"
+			}
 		}
 	],
 	"lives": [{
