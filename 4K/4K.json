@@ -1,16 +1,16 @@
 {
+	"spider": "./4k.jar",
 	"wallpaper": "https://wp.upx8.com/api.php",
 	"sites": [{
-			"name": "嗷呜 | 豆瓣",
-			"key": "嗷嗚彈幕",
+			"key": "lf_js_search",
+			"name": "豆瓣",
 			"type": 3,
-			"api": "csp_GoConfigAmns",
-			"indexs": 0,
 			"searchable": 0,
-			"filterable": 0,
-			"quickSearch": 0,
 			"changeable": 0,
-			"jar": "https://0890.dpdns.org/wnqiwnquidwiunddneudne/custom_spider.jar"
+			"quickSearch": 0,
+			"filterable": 0,
+			"api": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/douban_min.js",
+			"indexs": 0
 		},
 		{
 			"key": "labi",
@@ -21,7 +21,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 1,
-			"jar": "./4k.jar",
 			"ext": "http://154.219.113.13:4866/test.php?site=labi###labi"
 		},
 		{
@@ -33,7 +32,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 1,
-			"jar": "./4k.jar",
 			"ext": "http://154.219.113.13:4866/test.php?site=mihdr###mihdr"
 		},
 		{
@@ -45,7 +43,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 1,
-			"jar": "./4k.jar",
 			"ext": "http://154.219.113.13:4866/test.php?site=erxiao###erxiao"
 		},
 		{
@@ -57,7 +54,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 1,
-			"jar": "./4k.jar",
 			"ext": "http://154.219.113.13:4866/test.php?site=ouge###ouge"
 		},
 		{
