@@ -13,7 +13,7 @@
 			"api": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/douban_min.js"
 		},
 		{
-			"key": "labi",
+			"key": "labi_hb",
 			"name": "蜡笔HB｜4K",
 			"type": 3,
 			"api": "csp_HBT4",
@@ -24,7 +24,7 @@
 			"ext": "http://154.219.113.13:4866/test.php?site=labi###labi"
 		},
 		{
-			"key": "mihdr",
+			"key": "mihdr_hb",
 			"name": "至臻HB｜4K",
 			"type": 3,
 			"api": "csp_HBT4",
@@ -35,7 +35,7 @@
 			"ext": "http://154.219.113.13:4866/test.php?site=mihdr###mihdr"
 		},
 		{
-			"key": "erxiao",
+			"key": "erxiao_hb",
 			"name": "二小HB｜4K",
 			"type": 3,
 			"api": "csp_HBT4",
@@ -46,7 +46,7 @@
 			"ext": "http://154.219.113.13:4866/test.php?site=erxiao###erxiao"
 		},
 		{
-			"key": "ouge",
+			"key": "ouge_hb",
 			"name": "讴歌HB｜4K",
 			"type": 3,
 			"api": "csp_HBT4",
