@@ -14,7 +14,7 @@
 		},
 		{
 			"key": "labi",
-			"name": "蜡笔｜4K",
+			"name": "蜡笔HB｜4K",
 			"type": 3,
 			"api": "csp_HBT4",
 			"searchable": 1,
@@ -25,7 +25,7 @@
 		},
 		{
 			"key": "mihdr",
-			"name": "至臻｜4K",
+			"name": "至臻HB｜4K",
 			"type": 3,
 			"api": "csp_HBT4",
 			"searchable": 1,
@@ -36,7 +36,7 @@
 		},
 		{
 			"key": "erxiao",
-			"name": "二小｜4K",
+			"name": "二小HB｜4K",
 			"type": 3,
 			"api": "csp_HBT4",
 			"searchable": 1,
@@ -47,7 +47,7 @@
 		},
 		{
 			"key": "ouge",
-			"name": "讴歌｜4K",
+			"name": "讴歌HB｜4K",
 			"type": 3,
 			"api": "csp_HBT4",
 			"searchable": 1,
