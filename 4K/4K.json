@@ -1,5 +1,5 @@
 {
-	"spider": "./4k.jar",
+	"spider": "./ok.jar",
 	"wallpaper": "https://wp.upx8.com/api.php",
 	"sites": [{
 			"key": "lf_js_search",
@@ -9,56 +9,12 @@
 			"changeable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-		    "indexs": 0,
+			"indexs": 0,
 			"api": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/douban_min.js"
 		},
 		{
-			"key": "labi_hb",
-			"name": "蜡笔HB｜4K",
-			"type": 3,
-			"api": "csp_HBT4",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": "http://154.219.113.13:4866/test.php?site=labi###labi"
-		},
-		{
-			"key": "mihdr_hb",
-			"name": "至臻HB｜4K",
-			"type": 3,
-			"api": "csp_HBT4",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": "http://154.219.113.13:4866/test.php?site=mihdr###mihdr"
-		},
-		{
-			"key": "erxiao_hb",
-			"name": "二小HB｜4K",
-			"type": 3,
-			"api": "csp_HBT4",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": "http://154.219.113.13:4866/test.php?site=erxiao###erxiao"
-		},
-		{
-			"key": "ouge_hb",
-			"name": "讴歌HB｜4K",
-			"type": 3,
-			"api": "csp_HBT4",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": "http://154.219.113.13:4866/test.php?site=ouge###ouge"
-		},
-		{
 			"key": "duoduo_ok",
-			"name": "多多OK｜4K",
+			"name": "多多｜4K",
 			"type": 3,
 			"api": "csp_DuoDuoGuard",
 			"searchable": 1,
@@ -69,12 +25,11 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			},
-			"jar": "./ok.jar"
+			}
 		},
 		{
 			"key": "erxiao_ok",
-			"name": "二小OK｜4K",
+			"name": "二小｜4K",
 			"type": 3,
 			"api": "csp_ErXiaoGuard",
 			"searchable": 1,
@@ -85,12 +40,11 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			},
-			"jar": "./ok.jar"
+			}
 		},
 		{
 			"key": "wogg_ok",
-			"name": "玩偶OK｜4K",
+			"name": "玩偶｜4K",
 			"type": 3,
 			"api": "csp_WoggGuard",
 			"searchable": 1,
@@ -101,12 +55,11 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			},
-			"jar": "./ok.jar"
+			}
 		},
 		{
 			"key": "muou_ok",
-			"name": "木偶OK｜4K",
+			"name": "木偶｜4K",
 			"type": 3,
 			"api": "csp_MuouGuard",
 			"searchable": 1,
@@ -117,12 +70,11 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			},
-			"jar": "./ok.jar"
+			}
 		},
 		{
 			"key": "zhizhen_ok",
-			"name": "至臻OK｜4K",
+			"name": "至臻｜4K",
 			"type": 3,
 			"api": "csp_ZhiZhenGuard",
 			"searchable": 1,
@@ -133,12 +85,11 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			},
-			"jar": "./ok.jar"
+			}
 		},
 		{
 			"key": "labi_ok",
-			"name": "蜡笔OK｜4K",
+			"name": "蜡笔｜4K",
 			"type": 3,
 			"api": "csp_LabiGuard",
 			"searchable": 1,
@@ -154,7 +105,7 @@
 		},
 		{
 			"key": "2star_ok",
-			"name": "双星OK｜4K",
+			"name": "双星｜4K",
 			"type": 3,
 			"api": "csp_Star2Guard",
 			"searchable": 1,
@@ -164,12 +115,11 @@
 			"ext": {
 				"cookie": "./js/qk.js",
 				"baidu_cookie": "./js/bd.js"
-			},
-			"jar": "./ok.jar"
+			}
 		},
 		{
 			"key": "huban_ok",
-			"name": "虎斑OK｜4K",
+			"name": "虎斑｜4K",
 			"type": 3,
 			"api": "csp_HuBanGuard",
 			"searchable": 1,
@@ -180,12 +130,11 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			},
-			"jar": "./ok.jar"
+			}
 		},
 		{
 			"key": "xiaosa_ok",
-			"name": "小飒OK｜4K",
+			"name": "小飒｜4K",
 			"type": 3,
 			"api": "csp_XsayangGuard",
 			"searchable": 1,
@@ -196,8 +145,7 @@
 				"cookie": "./js/qk.js",
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
-			},
-			"jar": "./ok.jar"
+			}
 		}
 	],
 	"lives": [{
