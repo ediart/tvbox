@@ -146,6 +146,16 @@
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
 			}
+		},
+		{
+			"key": "panso_ok",
+			"name": "盘搜｜4k",
+			"type": 4,
+			"api": "http://59.126.38.202:3000/video/panso?token=83bc2aafd8b9f556",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1
 		}
 	],
 	"lives": [{
