@@ -146,6 +146,16 @@
 				"uc_cookie": "./js/uc.js",
 				"baidu_cookie": "./js/bd.js"
 			}
+		},
+		{
+			"key": "xbky",
+			"name": "快映｜4K",
+			"type": 4,
+			"api": "http://8088880.xyz:8080/video/xbky?token=8b1b7e653e8b338d",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1
 		}
 	],
 	"lives": [{
