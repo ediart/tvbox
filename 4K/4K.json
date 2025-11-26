@@ -1,16 +1,15 @@
 {
-	"spider": "./ok.jar",
-	"wallpaper": "https://深色壁纸.xxooo.cf/",
 	"sites": [{
-			"key": "lf_js_search",
-			"name": "豆瓣｜导航",
+			"name": "豆瓣 | 嗷呜",
+			"key": "嗷嗚彈幕",
 			"type": 3,
-			"searchable": 0,
-			"changeable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
+			"api": "csp_GoConfigAmns",
 			"indexs": 0,
-			"api": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/douban_min.js"
+			"searchable": 0,
+			"filterable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"jar": "https://0890.dpdns.org/wnqiwnquidwiunddneudne/custom_spider.jar"
 		},
 		{
 			"key": "duoduo_ok",
@@ -205,5 +204,7 @@
 		"cdn9.163189.xyz=gcore.jsdelivr.net",
 		"cache.ott.fifalive.itv.cmvideo.cn=cache.ott.fifalive.itv.cmvideo.cn.e.cdn.chinamobile.com",
 		"studentlive.migucloud.com=base-v4v6-miguvideo.e.cdn.chinamobile.com"
-	]
+	],
+	"wallpaper": "https://深色壁纸.xxooo.cf/",
+	"spider": "./ok.jar"
 }
