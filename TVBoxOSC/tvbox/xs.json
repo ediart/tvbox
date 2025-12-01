@@ -1650,7 +1650,7 @@
         },
         {
             "name": "港台",
-            "url": "http://8.220.193.88:5000/?type=m3u&proxy=true"
+            "url": "http://152.32.229.52:5050/?type=m3u&proxy=true"
         },
         {
             "name": "英超+NBA",
