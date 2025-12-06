@@ -285,36 +285,6 @@
 			"changeable": 1
 		},
 		{
-			"name": "🔍fish盘搜",
-			"key": "fish盘搜",
-			"type": 3,
-			"api": "csp_FishPsAmns",
-			"searchable": 1,
-			"filterable": 0,
-			"quickSearch": 1,
-			"changeable": 0
-		},
-		{
-			"name": "🔍RB盘搜",
-			"key": "RB盘搜",
-			"type": 3,
-			"api": "csp_RbPsAmns",
-			"searchable": 1,
-			"filterable": 0,
-			"quickSearch": 1,
-			"changeable": 0
-		},
-		{
-			"name": "🔍短剧盘搜",
-			"key": "短剧盘搜",
-			"type": 3,
-			"api": "csp_DuanjPsAmns",
-			"searchable": 1,
-			"filterable": 0,
-			"quickSearch": 1,
-			"changeable": 0
-		},
-		{
 			"key": "push_agent",
 			"name": "🛴推送",
 			"type": 3,
