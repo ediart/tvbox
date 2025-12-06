@@ -140,6 +140,17 @@
 			"searchable": 1,
 			"filterable": 1,
 			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "1"
+		},
+		{
+			"name": "🏆高端",
+			"key": "高端",
+			"type": 3,
+			"api": "csp_DdysAmns",
+			"searchable": 1,
+			"filterable": 1,
+			"quickSearch": 1,
 			"changeable": 1
 		},
 		{
@@ -163,10 +174,10 @@
 			"changeable": 1
 		},
 		{
-			"name": "🏆高端",
-			"key": "高端",
+			"name": "📽️LIBVIO",
+			"key": "LIBVIO",
 			"type": 3,
-			"api": "csp_DdysAmns",
+			"api": "csp_LibvioAmns",
 			"searchable": 1,
 			"filterable": 1,
 			"quickSearch": 1,
@@ -262,6 +273,46 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"changeable": 1
+		},
+		{
+			"name": "🎂岁岁短剧",
+			"key": "岁岁短剧",
+			"type": 3,
+			"api": "csp_SpdjAmns",
+			"searchable": 1,
+			"filterable": 1,
+			"quickSearch": 1,
+			"changeable": 1
+		},
+		{
+			"name": "🔍fish盘搜",
+			"key": "fish盘搜",
+			"type": 3,
+			"api": "csp_FishPsAmns",
+			"searchable": 1,
+			"filterable": 0,
+			"quickSearch": 1,
+			"changeable": 0
+		},
+		{
+			"name": "🔍RB盘搜",
+			"key": "RB盘搜",
+			"type": 3,
+			"api": "csp_RbPsAmns",
+			"searchable": 1,
+			"filterable": 0,
+			"quickSearch": 1,
+			"changeable": 0
+		},
+		{
+			"name": "🔍短剧盘搜",
+			"key": "短剧盘搜",
+			"type": 3,
+			"api": "csp_DuanjPsAmns",
+			"searchable": 1,
+			"filterable": 0,
+			"quickSearch": 1,
+			"changeable": 0
 		},
 		{
 			"key": "push_agent",
