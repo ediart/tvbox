@@ -66,7 +66,7 @@
 		},
 		{
 			"key": "py_粤漫之家",
-			"name": "🍋粤漫之家(T4)",
+			"name": "粤漫之家",
 			"type": 4,
 			"api": "https://py.doube.eu.org/v2/spider?site=de0fbc805050ecc4d63971c109724d0e"
 		},
@@ -93,6 +93,12 @@
 			"name": "php在线",
 			"type": 4,
 			"api": "http://zhangqun1818.serv00.net/php.php"
+		},
+		{
+			"key": "py_rou",
+			"name": "🔞肉視頻",
+			"type": 4,
+			"api": "https://py.doube.eu.org/v2/spider?site=96c1ddea0f3b27f1955ed512f0e7a9d7"
 		},
 		{
 			"key": "py_BadNews",
