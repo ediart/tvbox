@@ -59,6 +59,18 @@
 			"api": "https://py.doube.eu.org/spider?site=Dm84"
 		},
 		{
+			"key": "py_64832281816dd9a7b7c506233d457a5d",
+			"name": "官方采集",
+			"type": 4,
+			"api": "https://py.doube.eu.org/v2/spider?site=64832281816dd9a7b7c506233d457a5d"
+		},
+		{
+			"key": "py_粤漫之家",
+			"name": "🍋粤漫之家(T4)",
+			"type": 4,
+			"api": "https://py.doube.eu.org/v2/spider?site=de0fbc805050ecc4d63971c109724d0e"
+		},
+		{
 			"key": "文件播放",
 			"name": "文件播放",
 			"type": 4,
