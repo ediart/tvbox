@@ -1062,6 +1062,12 @@
             "ext": "./XBPQ/雪花.json"
         },
         {
+            "key": "混合搜索",
+            "name": "混合｜搜索",
+            "type": 3,
+            "api": "csp_HunHePan"
+        },
+        {
             "key": "88看球",
             "name": "88｜看球",
             "type": 3,
