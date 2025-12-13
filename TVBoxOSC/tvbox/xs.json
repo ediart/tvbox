@@ -1075,7 +1075,7 @@
             "ext": "./XBPQ/雪花.json"
         },
         {
-            "key": "酷乐搜l",
+            "key": "酷乐",
             "name": "酷乐｜搜索",
             "type": 3,
             "api": "csp_KuLe"
