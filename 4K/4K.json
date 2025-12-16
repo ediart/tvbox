@@ -154,9 +154,9 @@
 			"filterable": 1,
 			"changeable": 1,
 			"ext": {
-				"cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_qk.js",
-				"uc_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_uc.js",
-				"baidu_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_bd.js"
+				"cookie": "./js/qk.js",
+				"uc_cookie": "./js/uc.js",
+				"baidu_cookie": "./js/bd.js"
 			}
 		},
 		{
@@ -169,9 +169,9 @@
 			"filterable": 1,
 			"changeable": 1,
 			"ext": {
-				"cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_qk.js",
-				"uc_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_uc.js",
-				"baidu_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_bd.js"
+				"cookie": "./js/qk.js",
+				"uc_cookie": "./js/uc.js",
+				"baidu_cookie": "./js/bd.js"
 			}
 		},
 		{
@@ -184,9 +184,9 @@
 			"filterable": 1,
 			"changeable": 1,
 			"ext": {
-				"cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_qk.js",
-				"uc_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_uc.js",
-				"baidu_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_bd.js"
+				"cookie": "./js/qk.js",
+				"uc_cookie": "./js/uc.js",
+				"baidu_cookie": "./js/bd.js"
 			}
 		},
 		{
@@ -199,9 +199,9 @@
 			"filterable": 1,
 			"changeable": 1,
 			"ext": {
-				"cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_qk.js",
-				"uc_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_uc.js",
-				"baidu_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_bd.js"
+				"cookie": "./js/qk.js",
+				"uc_cookie": "./js/uc.js",
+				"baidu_cookie": "./js/bd.js"
 			}
 		},
 		{
@@ -214,9 +214,9 @@
 			"filterable": 1,
 			"changeable": 1,
 			"ext": {
-				"cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_qk.js",
-				"uc_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_uc.js",
-				"baidu_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_bd.js"
+				"cookie": "./js/qk.js",
+				"uc_cookie": "./js/uc.js",
+				"baidu_cookie": "./js/bd.js"
 			}
 		},
 		{
@@ -229,9 +229,9 @@
 			"filterable": 1,
 			"changeable": 1,
 			"ext": {
-				"cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_qk.js",
-				"uc_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_uc.js",
-				"baidu_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_bd.js"
+				"cookie": "./js/qk.js",
+				"uc_cookie": "./js/uc.js",
+				"baidu_cookie": "./js/bd.js"
 			}
 		},
 		{
@@ -244,8 +244,8 @@
 			"filterable": 1,
 			"changeable": 1,
 			"ext": {
-				"cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_qk.js",
-				"baidu_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_bd.js"
+				"cookie": "./js/qk.js",
+				"baidu_cookie": "./js/bd.js"
 			}
 		},
 		{
@@ -258,9 +258,9 @@
 			"filterable": 1,
 			"changeable": 1,
 			"ext": {
-				"cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_qk.js",
-				"uc_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_uc.js",
-				"baidu_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_bd.js"
+				"cookie": "./js/qk.js",
+				"uc_cookie": "./js/uc.js",
+				"baidu_cookie": "./js/bd.js"
 			}
 		},
 		{
@@ -273,9 +273,9 @@
 			"filterable": 1,
 			"changeable": 1,
 			"ext": {
-				"cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_qk.js",
-				"uc_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_uc.js",
-				"baidu_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/z_bd.js"
+				"cookie": "./js/qk.js",
+				"uc_cookie": "./js/uc.js",
+				"baidu_cookie": "./js/bd.js"
 			}
 		}
 	],
