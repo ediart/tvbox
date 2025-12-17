@@ -202,7 +202,8 @@
 				"cookie": "./js/qk.png",
 				"uc_cookie": "./js/uc.png",
 				"baidu_cookie": "./js/bd.png"
-			}
+			},
+			"categories": ["木偶电影", "木偶剧集", "木偶动漫", "木偶短剧", "木偶纪录片"]
 		},
 		{
 			"key": "zhizhen_OK",
