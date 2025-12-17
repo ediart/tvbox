@@ -92,7 +92,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 1
+			"changeable": 1,
+   "categories": ["木偶电影", "木偶剧集", "木偶动漫", "木偶短剧", "木偶纪录片"]
 		},
 		{
 			"key": "labi",
