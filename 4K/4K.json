@@ -12,28 +12,6 @@
 			"jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
 		},
 		{
-			"key": "txsp",
-			"name": "腾讯 | 4K",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"api": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/drpy2.min.js",
-			"ext": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/qq.png"
-		},
-		{
-			"key": "mgtv",
-			"name": "芒果 | 4K",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"api": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/drpy2.min.js",
-			"ext": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/mg.png"
-		},
-		{
 			"key": "xiaoya",
 			"name": "小雅 | 4K",
 			"type": 3,
@@ -335,11 +313,6 @@
 			"url": "https://live.catvod.com/tv.m3u"
 		}
 	],
-	"parses": [{
-		"name": "4K",
-		"type": 1,
-		"url": "http://125.208.23.251:1314/lunxun/?url="
-	}],
 	"headers": [{
 		"host": "hlsztemgsplive.miguvideo.com",
 		"header": {
