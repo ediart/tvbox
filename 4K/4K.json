@@ -12,6 +12,28 @@
 			"jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
 		},
 		{
+			"key": "txsp",
+			"name": "腾讯视频 | 4K",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"api": "./js/drpy2.min.js",
+			"ext": "./js/qq.png"
+		},
+		{
+			"key": "mgtv",
+			"name": "芒果TV | 4K",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"api": "./js/drpy2.min.js",
+			"ext": "./js/mg.png"
+		},
+		{
 			"key": "xiaoya",
 			"name": "小雅 | 4K",
 			"type": 3,
@@ -86,18 +108,18 @@
 		},
 		{
 			"key": "muou",
-			"name": "木偶｜4K",
+			"name": "木偶 | 4K",
 			"type": 4,
 			"api": "http://8088880.xyz:8080/video/muou?token=46efc1b7f85d70dc",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 1,
-            "categories": ["电影", "剧集", "动漫", "短剧", "纪录片"]
+			"categories": ["电影", "剧集", "动漫", "短剧", "纪录片"]
 		},
 		{
 			"key": "labi",
-			"name": "蜡笔｜4K",
+			"name": "蜡笔 | 4K",
 			"type": 4,
 			"api": "http://8088880.xyz:8080/video/labi?token=46efc1b7f85d70dc",
 			"searchable": 1,
@@ -107,7 +129,7 @@
 		},
 		{
 			"key": "huban",
-			"name": "虎斑｜4K",
+			"name": "虎斑 | 4K",
 			"type": 4,
 			"api": "http://8088880.xyz:8080/video/hb?token=46efc1b7f85d70dc",
 			"searchable": 1,
@@ -117,7 +139,7 @@
 		},
 		{
 			"key": "xbky",
-			"name": "快映｜4K",
+			"name": "快映 | 4K",
 			"type": 4,
 			"api": "http://8088880.xyz:8080/video/xbky?token=46efc1b7f85d70dc",
 			"searchable": 1,
@@ -127,7 +149,7 @@
 		},
 		{
 			"key": "ouge",
-			"name": "讴歌｜4K",
+			"name": "讴歌 | 4K",
 			"type": 4,
 			"api": "http://8088880.xyz:8080/video/ouge?token=46efc1b7f85d70dc",
 			"searchable": 1,
@@ -137,7 +159,7 @@
 		},
 		{
 			"key": "libo",
-			"name": "立播｜4K",
+			"name": "立播 | 4K",
 			"type": 4,
 			"api": "http://8088880.xyz:8080/video/libo?token=46efc1b7f85d70dc",
 			"searchable": 1,
@@ -147,7 +169,7 @@
 		},
 		{
 			"key": "duoduo_ok",
-			"name": "多多OK｜4K",
+			"name": "多多OK | 4K",
 			"type": 3,
 			"api": "csp_DuoDuoGuard",
 			"searchable": 1,
@@ -162,7 +184,7 @@
 		},
 		{
 			"key": "erxiao_ok",
-			"name": "二小OK｜4K",
+			"name": "二小OK | 4K",
 			"type": 3,
 			"api": "csp_ErXiaoGuard",
 			"searchable": 1,
@@ -177,7 +199,7 @@
 		},
 		{
 			"key": "wogg_ok",
-			"name": "玩偶OK｜4K",
+			"name": "玩偶OK | 4K",
 			"type": 3,
 			"api": "csp_WoggGuard",
 			"searchable": 1,
@@ -192,7 +214,7 @@
 		},
 		{
 			"key": "mogg_ok",
-			"name": "木偶OK｜4K",
+			"name": "木偶OK | 4K",
 			"type": 3,
 			"api": "csp_MuouGuard",
 			"searchable": 1,
@@ -208,7 +230,7 @@
 		},
 		{
 			"key": "zhizhen_OK",
-			"name": "至臻OK｜4K",
+			"name": "至臻OK | 4K",
 			"type": 3,
 			"api": "csp_ZhiZhenGuard",
 			"searchable": 1,
@@ -223,7 +245,7 @@
 		},
 		{
 			"key": "labi_ok",
-			"name": "蜡笔OK｜4K",
+			"name": "蜡笔OK | 4K",
 			"type": 3,
 			"api": "csp_LabiGuard",
 			"searchable": 1,
@@ -238,7 +260,7 @@
 		},
 		{
 			"key": "2star_ok",
-			"name": "双星OK｜4K",
+			"name": "双星OK | 4K",
 			"type": 3,
 			"api": "csp_Star2Guard",
 			"searchable": 1,
@@ -252,7 +274,7 @@
 		},
 		{
 			"key": "huban_ok",
-			"name": "虎斑OK｜4K",
+			"name": "虎斑OK | 4K",
 			"type": 3,
 			"api": "csp_HuBanGuard",
 			"searchable": 1,
@@ -267,7 +289,7 @@
 		},
 		{
 			"key": "xiaosa_ok",
-			"name": "小飒OK｜4K",
+			"name": "小飒OK | 4K",
 			"type": 3,
 			"api": "csp_XsayangGuard",
 			"searchable": 1,
@@ -313,6 +335,11 @@
 			"url": "https://live.catvod.com/tv.m3u"
 		}
 	],
+	"parses": [{
+		"name": "限时测试1",
+		"type": 1,
+		"url": "http://125.208.23.251:1314/lunxun/?url="
+	}],
 	"headers": [{
 		"host": "hlsztemgsplive.miguvideo.com",
 		"header": {
