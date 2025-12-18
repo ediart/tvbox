@@ -85,6 +85,67 @@
 			]
 		},
 		{
+			"key": "muou",
+			"name": "木偶｜4K",
+			"type": 4,
+			"api": "http://8088880.xyz:8080/video/muou?token=46efc1b7f85d70dc",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+            "categories": ["电影", "剧集", "动漫", "短剧", "纪录片"]
+		},
+		{
+			"key": "labi",
+			"name": "蜡笔｜4K",
+			"type": 4,
+			"api": "http://8088880.xyz:8080/video/labi?token=46efc1b7f85d70dc",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "huban",
+			"name": "虎斑｜4K",
+			"type": 4,
+			"api": "http://8088880.xyz:8080/video/hb?token=46efc1b7f85d70dc",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "xbky",
+			"name": "快映｜4K",
+			"type": 4,
+			"api": "http://8088880.xyz:8080/video/xbky?token=46efc1b7f85d70dc",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "ouge",
+			"name": "讴歌｜4K",
+			"type": 4,
+			"api": "http://8088880.xyz:8080/video/ouge?token=46efc1b7f85d70dc",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "libo",
+			"name": "立播｜4K",
+			"type": 4,
+			"api": "http://8088880.xyz:8080/video/libo?token=46efc1b7f85d70dc",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1
+		},
+		{
 			"key": "duoduo_ok",
 			"name": "多多OK｜4K",
 			"type": 3,
