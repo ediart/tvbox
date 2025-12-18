@@ -19,8 +19,8 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 1,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/qq.png"
+			"api": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/drpy2.min.js",
+			"ext": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/qq.png"
 		},
 		{
 			"key": "mgtv",
@@ -30,8 +30,8 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 1,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/mg.png"
+			"api": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/drpy2.min.js",
+			"ext": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/mg.png"
 		},
 		{
 			"key": "xiaoya",
