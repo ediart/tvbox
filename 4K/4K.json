@@ -13,7 +13,7 @@
 		},
 		{
 			"key": "txsp",
-			"name": "腾讯视频 | 4K",
+			"name": "腾讯 | 4K",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
@@ -24,7 +24,7 @@
 		},
 		{
 			"key": "mgtv",
-			"name": "芒果TV | 4K",
+			"name": "芒果 | 4K",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
