@@ -563,6 +563,21 @@
             "api": "csp_SP360"
         },
         {
+            "key": "夸克",
+            "name": "夸克｜4K",
+            "type": 3,
+            "api": "csp_PanWebShareCloudKK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://www.quarktv.cc"
+                ]
+            }
+        },
+        {
             "key": "盘它",
             "name": "盘它｜4K",
             "type": 3,
