@@ -99,12 +99,6 @@
 			},
 			"changeable": 1
 		},
-        {
-			"key": "pingguo",
-			"name": "小苹果",
-			"type": 4,
-			"api": "http://zhangqun66.com/pingguo.php"
-		},
 		{
 			"key": "旺旺短剧",
 			"name": "旺旺短剧",
