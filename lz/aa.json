@@ -34,6 +34,39 @@
             }
         },
 		{
+            "key": "apple_js",
+            "name": "小苹果JS",
+            "type": 3,
+            "api": "./js/apple.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+		{
+            "key": "永乐影视_js",
+            "name": "永乐影视JS",
+            "type": 3,
+            "api": "./js/永乐视频.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+		{
+            "key": "海龟_js",
+            "name": "海龟JS",
+            "type": 3,
+            "api": "./js/海龟.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+		{
 			"key": "Cntv",
 			"name": "CNTV",
 			"type": 3,
