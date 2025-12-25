@@ -66,6 +66,17 @@
             },
             "changeable": 1
         },
+				{
+            "key": "韩剧网_js",
+            "name": "韩剧网JS",
+            "type": 3,
+            "api": "./js/韩剧网.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
 		{
             "key": "聚合短剧_js",
             "name": "聚合短剧JS",
