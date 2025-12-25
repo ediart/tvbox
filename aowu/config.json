@@ -1,6 +1,6 @@
 {
-    "spider": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
-    "logo": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/logo.gif",
+	"spider": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
+	"logo": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/logo.gif",
 	"sites": [{
 			"name": "💬嗷嗚彈幕",
 			"key": "嗷嗚彈幕",
@@ -13,6 +13,48 @@
 			"changeable": 0
 		},
 		{
+			"name": "⚙️配置中心",
+			"key": "配置中心",
+			"type": 3,
+			"api": "csp_MyConfigAmns",
+			"searchable": 0,
+			"filterable": 0,
+			"quickSearch": 0,
+			"changeable": 0
+		},
+		{
+			"name": "📁本地文件",
+			"key": "本地文件",
+			"type": 3,
+			"api": "csp_MyLocalAmns",
+			"searchable": 0,
+			"filterable": 0,
+			"quickSearch": 0,
+			"changeable": 0
+		},
+		{
+			"name": "☁️我的挎鈳",
+			"key": "我的挎鈳",
+			"type": 3,
+			"api": "csp_MyQuarkAmns",
+			"searchable": 0,
+			"filterable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/quark.json"
+		},
+		{
+			"name": "☁️我的佰渡",
+			"key": "我的佰渡",
+			"type": 3,
+			"api": "csp_MyBaiduAmns",
+			"searchable": 0,
+			"filterable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/baidu.json"
+		},
+		{
 			"name": "🐙GitHub",
 			"key": "GitHub",
 			"type": 3,
@@ -22,6 +64,104 @@
 			"quickSearch": 0,
 			"changeable": 0,
 			"ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/github.json"
+		},
+		{
+			"name": "🤪玩偶",
+			"key": "玩偶",
+			"type": 3,
+			"api": "csp_WoggAmns",
+			"searchable": 1,
+			"filterable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": {
+				"sites": "http://woggpan.888484.xyz,http://woggpan.xxooo.cf,http://wogg.xxooo.cf,http://wogg4k.333232.xyz,https://www.wogg.one",
+				"filters": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/wogg.json"
+			}
+		},
+		{
+			"name": "😀蜡笔",
+			"key": "蜡笔",
+			"type": 3,
+			"api": "csp_WobgAmns",
+			"searchable": 1,
+			"filterable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": {
+				"sites": "http://feimao888.fun,https://feimao666.fun",
+				"filters": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/wolb.json"
+			}
+		},
+		{
+			"name": "😄二小",
+			"key": "二小",
+			"type": 3,
+			"api": "csp_WobgAmns",
+			"searchable": 1,
+			"filterable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": {
+				"sites": "http://erxiaofn.click,http://2xiaopan.fun,http://erxiaofn.site,https://www.erixaopan.fun",
+				"filters": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/woex.json"
+			}
+		},
+		{
+			"name": "😆虎斑",
+			"key": "虎斑",
+			"type": 3,
+			"api": "csp_WobgAmns",
+			"searchable": 1,
+			"filterable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": {
+				"sites": "http://103.45.162.207:20720",
+				"filters": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/wohb.json"
+			}
+		},
+		{
+			"name": "🤠至臻",
+			"key": "至臻",
+			"type": 3,
+			"api": "csp_WobgAmns",
+			"searchable": 1,
+			"filterable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": {
+				"sites": "http://www.miqk.cc,https://www.zhizhenpan.fun,https://www.mihdr.top,https://mihdr.top",
+				"filters": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/wozz.json"
+			}
+		},
+		{
+			"name": "🤓多多",
+			"key": "多多",
+			"type": 3,
+			"api": "csp_WobgAmns",
+			"searchable": 1,
+			"filterable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": {
+				"sites": "https://tv.yydsys.top,https://tv.yydsys.cc,https://tv.214521.xyz",
+				"filters": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/wodd.json"
+			}
+		},
+		{
+			"name": "🥸欧哥",
+			"key": "欧哥",
+			"type": 3,
+			"api": "csp_WobgAmns",
+			"searchable": 1,
+			"filterable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": {
+				"sites": "https://woog.nxog.eu.org",
+				"filters": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/woog.json"
+			}
 		},
 		{
 			"name": "🎉Bili",
@@ -68,7 +208,7 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "PnUH1ANGAUTUF9HVgAAHARACF0cRFwdCx0TGwlcBggZSlhIVlFtBFZDAQ0dC1VMR1BUV1ZEVEofVktQCRFQPSQKQjwgBjMpJz4MOyBQCxdmfAs0KhU+Ow48CzMgKjULMlQBKl1VNSlAIEpUS1JHDgJKTkhWUnQZSnscNj0oRkcVIA8EBzIxH0djY08OE15EUAgTQxQGF0VOSFYJEgFGBwJQMQsqEjM/MgIkITYeQwFMQHYaQ1hBByEXBVRLUkcGBBgrARARCFIRVRMMEwwZExBQSUdWCxwJGl1XHmxSHQAXR01WRRYCOAcYRFlWHxJQV1QEDREAKB8DUF9HVlFHW01XBkFSCRdTE1JORgRQSUdWGBULH1JVF2xfEwkXR01WRREKCloNGAkaVhwDWlAcBxcLEAIGXAkPFw1WRFQRQQtAbgIIExERGRUfR11USkZKWBMQAUpCAAEeABYFAlBfR1ZZRUpYExAEVkMBDR0LVUxHUFFXRFhESgk="
+			"ext": "fcsH1ANGAUTUF9HVgAAHARACF0cRFwdCx0TGwlcBggZSlhIVlFtBFZDAQ0dC1VMR1BUV1ZEVEofVktQCRFQPSQKQjwgBjMpJz4MOyBQCxdmfAs0KhU+Ow48CzMgKjULMlQBKl1VNSlAIEpUS1JHDgJKTkhWUnQZSnscNj0oRkcVIA8EBzIxH0djY08OE15EUAgTQxQGF0VOSFYJEgFGBwJQMQsqEjM/MgIkITYeQwFMQHYaQ1hBByEXBVRLUkcGBBgrARARCFIRVRMMEwwZExBQSUdWCxwJGl1XHmxSHQAXR01WRRYNFAQ3BxhEAhBeExMCBREOFhECLQsGGQ1WUlQRUR1eHxcIEwsSWBYbBAkXDRoPAFIcHltSF0ZeRVUFHgE6FxgJAA4bQV9QCRFQVlBJV1QUCxYVEQQRCQdWEEgTE0NVUElXVBEXFxQdBxpKThMQRgMBQlRQGA=="
 		},
 		{
 			"name": "🎪伊外",
@@ -137,6 +277,26 @@
 			"key": "YOU视",
 			"type": 3,
 			"api": "csp_YouSPAmns",
+			"searchable": 1,
+			"filterable": 1,
+			"quickSearch": 1,
+			"changeable": 1
+		},
+		{
+			"name": "🍕欧乐",
+			"key": "🍕欧乐",
+			"type": 3,
+			"api": "csp_OlyyAmns",
+			"searchable": 1,
+			"filterable": 1,
+			"quickSearch": 1,
+			"changeable": 1
+		},
+		{
+			"name": "⛵爱壹帆",
+			"key": "⛵爱壹帆",
+			"type": 3,
+			"api": "csp_AiyfAmns",
 			"searchable": 1,
 			"filterable": 1,
 			"quickSearch": 1,
@@ -392,49 +552,30 @@
 	"doh": [{
 			"name": "Google",
 			"url": "https://dns.google/dns-query",
-			"ips": [
-				"8.8.4.4",
-				"8.8.8.8"
-			]
+			"ips": ["8.8.4.4", "8.8.8.8"]
 		},
 		{
 			"name": "Cloudflare",
 			"url": "https://cloudflare-dns.com/dns-query",
-			"ips": [
-				"1.1.1.1",
-				"1.0.0.1",
-				"2606:4700:4700::1111",
-				"2606:4700:4700::1001"
-			]
+			"ips": ["1.1.1.1", "1.0.0.1", "2606:4700:4700::1111", "2606:4700:4700::1001"]
 		},
 		{
 			"name": "AdGuard",
 			"url": "https://dns.adguard.com/dns-query",
-			"ips": [
-				"94.140.14.140",
-				"94.140.14.141"
-			]
+			"ips": ["94.140.14.140", "94.140.14.141"]
 		},
 		{
 			"name": "DNSWatch",
 			"url": "https://resolver2.dns.watch/dns-query",
-			"ips": [
-				"84.200.69.80",
-				"84.200.70.40"
-			]
+			"ips": ["84.200.69.80", "84.200.70.40"]
 		},
 		{
 			"name": "Quad9",
 			"url": "https://dns.quad9.net/dns-quer",
-			"ips": [
-				"9.9.9.9",
-				"149.112.112.112"
-			]
+			"ips": ["9.9.9.9", "149.112.112.112"]
 		}
 	],
-	"ads": [
-		"mozai.4gtv.tv"
-	],
+	"ads": ["mozai.4gtv.tv"],
 	"ijk": [{
 			"group": "软解码",
 			"options": [{
@@ -594,123 +735,58 @@
 			]
 		}
 	],
-	"proxy": [
-		"raw.githubusercontent.com",
-		"googlevideo.com",
-		"cdn.v82u1l.com",
-		"cdn.iz8qkg.com",
-		"cdn.kin6c1.com",
-		"c.biggggg.com",
-		"c.olddddd.com",
-		"haiwaikan.com",
-		"www.histar.tv",
-		"youtube.com",
-		"uhibo.com",
-		".*boku.*",
-		".*nivod.*",
-		".*ulivetv.*",
-		"iill.top"
-	],
+	"proxy": ["raw.githubusercontent.com", "googlevideo.com", "cdn.v82u1l.com", "cdn.iz8qkg.com", "cdn.kin6c1.com", "c.biggggg.com", "c.olddddd.com", "haiwaikan.com", "www.histar.tv", "youtube.com", "uhibo.com", ".*boku.*", ".*nivod.*", ".*ulivetv.*", "iill.top"],
 	"rules": [{
 			"name": "cl",
-			"hosts": [
-				"magnet"
-			],
-			"regex": [
-				"最 新",
-				"直 播",
-				"更 新"
-			]
+			"hosts": ["magnet"],
+			"regex": ["最新", "直播", "更新"]
 		},
 		{
 			"name": "火山嗅探",
-			"hosts": [
-				"huoshan.com"
-			],
-			"regex": [
-				"item_id="
-			]
+			"hosts": ["huoshan.com"],
+			"regex": ["item_id="]
 		},
 		{
 			"name": "抖音嗅探",
-			"hosts": [
-				"douyin.com"
-			],
-			"regex": [
-				"is_play_url="
-			]
+			"hosts": ["douyin.com"],
+			"regex": ["is_play_url="]
 		},
 		{
 			"name": "农民嗅探",
-			"hosts": [
-				"toutiaovod.com"
-			],
-			"regex": [
-				"video/tos/cn"
-			]
+			"hosts": ["toutiaovod.com"],
+			"regex": ["video/tos/cn"]
 		},
 		{
 			"name": "七新嗅探",
-			"hosts": [
-				"api.52wyb.com"
-			],
-			"regex": [
-				"m3u8?pt=m3u8"
-			]
+			"hosts": ["api.52wyb.com"],
+			"regex": ["m3u8?pt=m3u8"]
 		},
 		{
 			"name": "夜市",
-			"hosts": [
-				"yeslivetv.com"
-			],
-			"script": [
-				"document.getElementsByClassName('vjs-big-play-button')[0].click()"
-			]
+			"hosts": ["yeslivetv.com"],
+			"script": ["document.getElementsByClassName('vjs-big-play-button')[0].click()"]
 		},
 		{
 			"name": "毛驴",
-			"hosts": [
-				"www.maolvys.com"
-			],
-			"script": [
-				"document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
-			]
+			"hosts": ["www.maolvys.com"],
+			"script": ["document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]
 		},
 		{
 			"name": "czzy",
-			"hosts": [
-				"10086.cn"
-			],
-			"regex": [
-				"/storageWeb/servlet/downloadServlet"
-			]
+			"hosts": ["10086.cn"],
+			"regex": ["/storageWeb/servlet/downloadServlet"]
 		},
 		{
 			"name": "bdys",
-			"hosts": [
-				"bytetos.com",
-				"byteimg.com",
-				"bytednsdoc.com",
-				"pstatp.com"
-			],
-			"regex": [
-				"/tos-cn"
-			],
-			"exclude": [
-				".m3u8"
-			]
+			"hosts": ["bytetos.com", "byteimg.com", "bytednsdoc.com", "pstatp.com"],
+			"regex": ["/tos-cn"],
+			"exclude": [".m3u8"]
 		},
 		{
 			"name": "bdys10",
-			"hosts": [
-				"bdys10.com"
-			],
-			"regex": [
-				"/obj/"
-			],
-			"exclude": [
-				".m3u8"
-			]
+			"hosts": ["bdys10.com"],
+			"regex": ["/obj/"],
+			"exclude": [".m3u8"]
 		}
 	],
 	"lives": [{
