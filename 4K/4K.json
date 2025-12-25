@@ -279,6 +279,16 @@
 				"uc_cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/uc.png",
 				"baidu_cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/bd.png"
 			}
+		},
+		{
+			"key": "panso",
+			"name": "盘搜 | 4K",
+			"type": 4,
+			"api": "http://8088880.xyz:8080/video/panso?token=96e4cc135e70f596",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1
 		}
 	],
 	"lives": [{
