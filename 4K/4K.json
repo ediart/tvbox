@@ -103,7 +103,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 1
+			"changeable": 1,
+			"categories": ["电影", "剧集", "动漫", "综艺", "纪录片"]
 		},
 		{
 			"key": "huban",
