@@ -59,16 +59,16 @@ const search = async ({ page, quick, wd }) => {
   };
 
   const panPic = {
-    ali: "https://xget.xi-xu.me/gh/power721/alist-tvbox/raw/refs/heads/master/web-ui/public/ali.jpg",
-    quark: "https://xget.xi-xu.me/gh/power721/alist-tvbox/raw/refs/heads/master/web-ui/public/quark.png",
-    uc: "https://xget.xi-xu.me/gh/power721/alist-tvbox/raw/refs/heads/master/web-ui/public/uc.png",
-    pikpak: "https://xget.xi-xu.me/gh/power721/alist-tvbox/raw/refs/heads/master/web-ui/public/pikpak.jpg",
-    xunlei: "https://xget.xi-xu.me/gh/power721/alist-tvbox/raw/refs/heads/master/web-ui/public/thunder.png",
-    '123': "https://xget.xi-xu.me/gh/power721/alist-tvbox/raw/refs/heads/master/web-ui/public/123.png",
-    tianyi: "https://xget.xi-xu.me/gh/power721/alist-tvbox/raw/refs/heads/master/web-ui/public/189.png",
-    mobile: "https://xget.xi-xu.me/gh/power721/alist-tvbox/raw/refs/heads/master/web-ui/public/139.jpg",
-    '115': "https://xget.xi-xu.me/gh/power721/alist-tvbox/raw/refs/heads/master/web-ui/public/115.jpg",
-    'baidu': "https://xget.xi-xu.me/gh/power721/alist-tvbox/raw/refs/heads/master/web-ui/public/baidu.jpg",
+    ali: "https://i.kkb.xx.kg/image/d9nRUFClrXqbwO2MOlou2P.jpg",
+    quark: "https://i.kkb.xx.kg/image/yHQ77Y4eq553zKJmiwhMb6.jpg",
+    uc: "https://i.kkb.xx.kg/image/5MAg7EseQeJUtrwevSyMFG.jpg",
+    pikpak: "https://i.kkb.xx.kg/image/mzqDP7FxxdIJUJ2nTqiHsF.jpg",
+    xunlei: "https://i.kkb.xx.kg/image/W72QBMGFWSyAsGwaPVNKPE.jpg",
+    '123': "https://i.kkb.xx.kg/image/PBy07a6a8NeF4A8W9l6tuT.jpg",
+    tianyi: "https://i.kkb.xx.kg/image/k21mequdXQK3SxQ1elm1Yz.jpg",
+    mobile: "https://i.kkb.xx.kg/image/wEzwFudS6fgs402vWuJGCq.jpg",
+    '115': "https://i.kkb.xx.kg/image/t9vfqYfQCiurhth3oOx0jj.jpg",
+    'baidu': "https://i.kkb.xx.kg/image/zYrck8nQPegrsoYZ3pxfsA.jpg",
   };
 
   // 1. 先调用盘搜接口获取原始结果
