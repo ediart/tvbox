@@ -13,114 +13,114 @@
 			"indexs": 0
 		},
 		{
-            "key": "hohaiemby",
-            "name": "HohaiEMBY",
-            "type": 3,
-            "api": "https://cdn.jsdelivr.net/gh/ediart/tvbox@main/lz/emby.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "server": "https://emby.hohai.eu.org:443",
-                "username": "chuxin666",
-                "password": "ycc123456",
-                "proxy": "",
-                "thread": 0,
-                "device_name": "My Computer",
-                "client": "Hills Windows",
-                "client_version": "0.3.2",
-                "device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
-            }
-        },
+			"key": "hohaiemby",
+			"name": "HohaiEMBY",
+			"type": 3,
+			"api": "https://cdn.jsdelivr.net/gh/ediart/tvbox@main/lz/emby.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"ext": {
+				"server": "https://emby.hohai.eu.org:443",
+				"username": "chuxin666",
+				"password": "ycc123456",
+				"proxy": "",
+				"thread": 0,
+				"device_name": "My Computer",
+				"client": "Hills Windows",
+				"client_version": "0.3.2",
+				"device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
+			}
+		},
 		{
-            "key": "apple_js",
-            "name": "小苹果JS",
-            "type": 3,
-            "api": "./js/apple.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
+			"key": "apple_js",
+			"name": "小苹果JS",
+			"type": 3,
+			"api": "./js/apple.js",
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1
+		},
 		{
-            "key": "永乐影视_js",
-            "name": "永乐影视JS",
-            "type": 3,
-            "api": "./js/永乐视频.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
+			"key": "永乐影视_js",
+			"name": "永乐影视JS",
+			"type": 3,
+			"api": "./js/永乐视频.js",
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1
+		},
 		{
-            "key": "海龟_js",
-            "name": "海龟JS",
-            "type": 3,
-            "api": "./js/海龟.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
+			"key": "海龟_js",
+			"name": "海龟JS",
+			"type": 3,
+			"api": "./js/海龟.js",
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1
+		},
 		{
-            "key": "韩剧网_js",
-            "name": "韩剧网JS",
-            "type": 3,
-            "api": "./js/韩剧网.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
+			"key": "韩剧网_js",
+			"name": "韩剧网JS",
+			"type": 3,
+			"api": "./js/韩剧网.js",
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1
+		},
 		{
-            "key": "金牌影院_js",
-            "name": "金牌影院JS",
-            "type": 3,
-            "api": "./js/金牌影院.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
+			"key": "金牌影院_js",
+			"name": "金牌影院JS",
+			"type": 3,
+			"api": "./js/金牌影院.js",
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1
+		},
 		{
-            "key": "界影视_js",
-            "name": "界影视JS",
-            "type": 3,
-            "api": "./js/界影视.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
+			"key": "界影视_js",
+			"name": "界影视JS",
+			"type": 3,
+			"api": "./js/界影视.js",
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1
+		},
 		{
-            "key": "荐片_js",
-            "name": "荐片JS",
-            "type": 3,
-            "api": "./js/荐片.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
+			"key": "荐片_js",
+			"name": "荐片JS",
+			"type": 3,
+			"api": "./js/荐片.js",
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1
+		},
 		{
-            "key": "聚合短剧_js",
-            "name": "聚合短剧JS",
-            "type": 3,
-            "api": "./js/聚合短剧.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
+			"key": "聚合短剧_js",
+			"name": "聚合短剧JS",
+			"type": 3,
+			"api": "./js/聚合短剧.js",
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1
+		},
 		{
 			"key": "Cntv",
 			"name": "CNTV",
@@ -194,40 +194,40 @@
 			"changeable": 1
 		},
 		{
-            "key": "哔哩",
-            "name": "哔哩哔哩",
-            "type": 3,
-            "api": "csp_Bilibili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
+			"key": "哔哩",
+			"name": "哔哩哔哩",
+			"type": 3,
+			"api": "csp_Bilibili",
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1
+		},
 		{
-            "key": "爱瓜TV",
-            "name": "爱瓜TV",
-            "type": 4,
-            "api": "http://zhangqun66.com/aigua.php",
-            "searchable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
+			"key": "爱瓜TV",
+			"name": "爱瓜TV",
+			"type": 4,
+			"api": "http://zhangqun66.com/aigua.php",
+			"searchable": 1,
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1
+		},
 		{
-            "key": "文件播放",
-            "name": "文件播放",
-            "type": 4,
-            "api": "http://139.185.42.4:14888/TV/lives.php",
-            "searchable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
+			"key": "文件播放",
+			"name": "文件播放",
+			"type": 4,
+			"api": "http://139.185.42.4:14888/TV/lives.php",
+			"searchable": 1,
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1
+		},
 		{
 			"key": "jable",
 			"name": "JableFQ+",
