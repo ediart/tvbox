@@ -89,6 +89,39 @@
 			"changeable": 1
 		},
 		{
+			"key": "界影视_js",
+			"name": "界影视JS",
+			"type": 3,
+			"api": "./js/界影视.js",
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1
+		},
+		{
+			"key": "金牌影院_js",
+			"name": "金牌影院JS",
+			"type": 3,
+			"api": "./js/金牌影院.js",
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1
+		},
+		{
+			"key": "Emby_js",
+			"name": "EmbyJS",
+			"type": 3,
+			"api": "./js/Emby.js",
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1
+		},
+		{
 			"key": "鬼片之家_js",
 			"name": "鬼片之家JS",
 			"type": 3,
