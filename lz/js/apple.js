@@ -1,4 +1,3 @@
-
 let host = 'http://asp.xpgtv.com';
 let headers = {
     "User-Agent": "okhttp/3.12.11"
@@ -20,10 +19,16 @@ function getList(data) {
     return videos;
 }
 
+// ------------------- 兼容 JSON -------------------
+function parseResp(resp) {
+    return typeof resp.content === "string" ? JSON.parse(resp.content) : resp.content;
+}
+
 async function home(filter) {
     let url = host + "/api.php/v2.vod/androidtypes";
     let resp = await req(url, { headers: headers });
-    let data = JSON.parse(resp.content);
+    let data = parseResp(resp);
+
     let dy = { "classes": "类型", "areas": "地区", "years": "年份", "sortby": "排序" };
     let demos = ['时间', '人气', '评分'];
     let classes = [];
@@ -55,25 +60,34 @@ async function home(filter) {
 async function homeVod() {
     let url = host + "/api.php/v2.main/androidhome";
     let resp = await req(url, { headers: headers });
-    let data = JSON.parse(resp.content);
+    let data = parseResp(resp);
+
     let videos = [];
     data.data.list.forEach(i => { videos = videos.concat(getList(i.list)); });
     return JSON.stringify({ list: videos });
 }
 
 async function category(tid, pg, filter, extend) {
-    let params = { "page": pg, "type": tid, "area": extend.areaes || '', "year": extend.yeares || '', "sortby": extend.sortby || '', "class": extend.classes || '' };
+    let params = { 
+        "page": pg, 
+        "type": tid, 
+        "area": extend.areaes || '', 
+        "year": extend.yeares || '', 
+        "sortby": extend.sortby || '', 
+        "class": extend.classes || '' 
+    };
     let query = Object.keys(params).filter(k => params[k] !== '').map(k => k + '=' + encodeURIComponent(params[k])).join('&');
     let url = host + '/api.php/v2.vod/androidfilter10086?' + query;
     let resp = await req(url, { headers: headers });
-    let data = JSON.parse(resp.content);
+    let data = parseResp(resp);
+
     return JSON.stringify({ list: getList(data.data), page: parseInt(pg), pagecount: 9999, limit: 90, total: 999999 });
 }
 
 async function detail(id) {
     let url = host + '/api.php/v3.vod/androiddetail2?vod_id=' + id;
     let resp = await req(url, { headers: headers });
-    let data = JSON.parse(resp.content).data;
+    let data = parseResp(resp).data;
 
     // 过滤掉包含“及时雨”的选集
     let filteredUrls = data.urls.filter(i => !i.key.includes("及时雨"));
@@ -100,18 +114,17 @@ async function search(wd, quick, pg) {
     let page = pg || '1';
     let url = host + '/api.php/v2.vod/androidsearch10086?page=' + page + '&wd=' + encodeURIComponent(wd);
     let resp = await req(url, { headers: headers });
-    let data = JSON.parse(resp.content);
+    let data = parseResp(resp);
+
     return JSON.stringify({ list: getList(data.data), page: page });
 }
 
-// --- 重点修改：更新为 1.5.7 最新播放头 ---
 async function play(flag, id, flags) {
     let playUrl = id;
     if (!id.startsWith('http')) {
         playUrl = "http://c.xpgtv.net/m3u8/" + id + ".m3u8";
     }
 
-    // 1:1 还原你提供的 PHP 数组头
     const playHeader = {
         'user_id': 'XPGBOX',
         'token2': 'SnAXiSW8vScXE0Z9aDOnK5xffbO75w1+uPom3WjnYfVEA1oWtUdi2Ihy1N8=',
@@ -129,7 +142,7 @@ async function play(flag, id, flags) {
     return JSON.stringify({
         parse: 0,
         url: playUrl,
-        header: playHeader // 传给播放器挂载请求
+        header: playHeader
     });
 }
 
