@@ -133,6 +133,13 @@
 			"changeable": 1
 		},
 		{
+			"key": "xiaoya-emby_js",
+			"name": "xiaoya-embyJS",
+			"type": 3,
+			"api": "./js/xiaoya-emby.js",
+			"changeable": 1
+		},
+		{
 			"key": "聚合短剧_js",
 			"name": "聚合短剧JS",
 			"type": 3,
