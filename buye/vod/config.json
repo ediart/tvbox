@@ -55,5 +55,12 @@
       "name": "PikPak云盘资源"
     }
   ],
-  "danmu": "http://xxxx.com/xxx"
+  "danmu": {
+    "name": "LEO|弹幕",
+    "key": "leo弹幕",
+    "type": 3,
+    "api": "csp_DanmakuSpider",
+    "searchable": 1,
+    "ext": "http://127.0.0.1:9321/938944"
+  }
 }
