@@ -88,7 +88,7 @@
 			"key": "xiaoya-emby",
 			"name": "Emby | 4K",
 			"type": 3,
-			"api": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/小雅Emby.js",
+			"api": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/Emby.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
