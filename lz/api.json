@@ -366,15 +366,7 @@
 		"static-mozai.4gtv.tv",
 		"s3t3d2y8.afcdn.net"
 	],
-	"lives": [{
-			"name": "MQ",
-			"api": "csp_MQiTV",
-			"jar": "./fm.jar",
-			"ext": [{
-				"name": "MQiTV",
-				"url": "https://59.125.210.231:4433"
-			}]
-		},
+	"lives": [
 		{
 			"name": "政治时事",
 			"url": "http://zhangqun66.com/141.php"
