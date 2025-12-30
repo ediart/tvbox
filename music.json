@@ -90,7 +90,7 @@
 			"key": "YYMP3音乐网",
 			"name": "YYMP3音乐网",
 			"type": 3,
-			"api": "./py/YYMP3音乐网.py"
+			"api": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py/YYMP3%E9%9F%B3%E4%B9%90%E7%BD%91.py"
 		},
 		{
 			"key": "爱玩音乐网",
@@ -193,4 +193,5 @@
 		}
 	]
 }
+
 
