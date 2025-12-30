@@ -74,9 +74,10 @@
 		},
 		{
 			"key": "采集集合",
-			"name": "采集集合",
+			"name": "采集集合+",
 			"type": 4,
-			"api": "http://zhangqun1818.serv00.net/cj/cjjh.php"
+			"api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
+			"ext": "0"
 		},
 		{
 			"key": "js集合",
