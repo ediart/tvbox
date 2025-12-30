@@ -16,71 +16,43 @@
 			"key": "py_小苹果",
 			"name": "🍎小苹果(T4)",
 			"type": 4,
-			"api": ".https://py.doube.eu.org/static/v2/spider?site=9037cfae7c64405111e0e364401adb60",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0
+			"api": ".https://py.doube.eu.org/static/v2/spider?site=9037cfae7c64405111e0e364401adb60"
 		},
 		{
 			"key": "py_官方采集789",
 			"name": "🍎官方采集789(T4)",
 			"type": 4,
-			"api": ".https://py.doube.eu.org/static/v2/spider?site=006849a2c19a6be413be5017be468c63",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0
+			"api": ".https://py.doube.eu.org/static/v2/spider?site=006849a2c19a6be413be5017be468c63"
 		},
 		{
 			"key": "py_动漫巴士",
 			"name": "🍎动漫巴士(T4)",
 			"type": 4,
-			"api": ".https://py.doube.eu.org/static/v2/spider?site=6b5899d243816bacb8712de7ab6ceb89",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0
+			"api": ".https://py.doube.eu.org/static/v2/spider?site=6b5899d243816bacb8712de7ab6ceb89"
 		},
 		{
 			"key": "py_欧乐影院",
 			"name": "🍎欧乐影院(T4)",
 			"type": 4,
-			"api": ".https://py.doube.eu.org/static/v2/spider?site=8a0bbe9e97c4429a517cd2ece3f6772b",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0
+			"api": ".https://py.doube.eu.org/static/v2/spider?site=8a0bbe9e97c4429a517cd2ece3f6772b"
 		},
 		{
 			"key": "py_小红影视",
 			"name": "🍎小红影视(T4)",
 			"type": 4,
-			"api": ".https://py.doube.eu.org/static/v2/spider?site=01d44f1ecd9383f273c0c24989ad87c3",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0
+			"api": ".https://py.doube.eu.org/static/v2/spider?site=01d44f1ecd9383f273c0c24989ad87c3"
 		},
 		{
 			"key": "py_低端影视",
 			"name": "🍎低端影视(T4)",
 			"type": 4,
-			"api": ".https://py.doube.eu.org/static/v2/spider?site=a4108870c8bac363add59bf0101e2884",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0
+			"api": ".https://py.doube.eu.org/static/v2/spider?site=a4108870c8bac363add59bf0101e2884"
 		},
 		{
 			"key": "py_新韩剧网",
 			"name": "🍎新韩剧网(T4)",
 			"type": 4,
-			"api": ".https://py.doube.eu.org/static/v2/spider?site=2a7cc0edf96108c9d57420ff57c654c6",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0
+			"api": ".https://py.doube.eu.org/static/v2/spider?site=2a7cc0edf96108c9d57420ff57c654c6"
 		},
 		{
 			"key": "文件播放",
