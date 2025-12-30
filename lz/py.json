@@ -22,27 +22,6 @@
 			"changeable": 0
 		},
 		{
-			"key": "js_ttt",
-			"name": "禁漫天堂(js)",
-			"type": 3,
-			"api": "./js/禁漫天堂.js",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0
-		},
-		{
-			"key": "js_ying_hua",
-			"name": "樱花视频(js)",
-			"type": 3,
-			"api": "./js/樱花视频.min.js",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0,
-			"ext": {}
-		},
-		{
 			"key": "js_madou",
 			"name": "麻豆(js)",
 			"type": 3,
