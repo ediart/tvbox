@@ -22,17 +22,6 @@
 			"changeable": 0
 		},
 		{
-			"key": "js_madou",
-			"name": "🔞麻豆(js)",
-			"type": 3,
-			"api": "./js/麻豆.min.js",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0,
-			"ext": {}
-		},
-		{
 			"key": "好莱坞",
 			"name": "好莱坞",
 			"type": 3,
@@ -84,20 +73,6 @@
 			"name": "小鸡暴走",
 			"type": 3,
 			"api": "./py/小鸡暴走.py",
-			"changeable": 1
-		},
-		{
-			"key": "91rb",
-			"name": "🔞91rb",
-			"type": 3,
-			"api": "./py/91rb.py",
-			"changeable": 1
-		},
-		{
-			"key": "DSYS",
-			"name": "🔞DSYS",
-			"type": 3,
-			"api": "./py/DSYS.py",
 			"changeable": 1
 		},
 		{
@@ -165,13 +140,6 @@
 			"changeable": 1
 		},
 		{
-			"key": "lav",
-			"name": "🔞lav",
-			"type": 3,
-			"api": "./py/lav.py",
-			"changeable": 1
-		},
-		{
 			"key": "随机小姐姐",
 			"name": "随机小姐姐",
 			"type": 3,
@@ -193,13 +161,6 @@
 			"changeable": 1
 		},
 		{
-			"key": "色播聚合",
-			"name": "🔞色播聚合",
-			"type": 3,
-			"api": "./py/色播聚合.py",
-			"changeable": 1
-		},
-		{
 			"key": "小红影视",
 			"name": "小红影视",
 			"type": 3,
@@ -211,20 +172,6 @@
 			"name": "国外剧",
 			"type": 3,
 			"api": "./py/国外剧.py",
-			"changeable": 1
-		},
-		{
-			"key": "一个区",
-			"name": "🔞一个区",
-			"type": 3,
-			"api": "./py/一个区.py",
-			"changeable": 1
-		},
-		{
-			"key": "九个区",
-			"name": "🔞九个区",
-			"type": 3,
-			"api": "./py/九个区.py",
 			"changeable": 1
 		},
 		{
@@ -260,20 +207,6 @@
 			"name": "奇优动漫",
 			"type": 3,
 			"api": "./py/奇优动漫.py",
-			"changeable": 1
-		},
-		{
-			"key": "小红薯",
-			"name": "🔞小红薯",
-			"type": 3,
-			"api": "./py/小红薯.py",
-			"changeable": 1
-		},
-		{
-			"key": "推特",
-			"name": "🔞推特",
-			"type": 3,
-			"api": "./py/推特.py",
 			"changeable": 1
 		},
 		{
@@ -319,6 +252,55 @@
 			"changeable": 1
 		},
 		{
+			"key": "骚火影视",
+			"name": "骚火影视",
+			"type": 3,
+			"api": "./py/骚火影视.py",
+			"changeable": 1
+		},
+		{
+			"key": "91rb",
+			"name": "🔞91rb",
+			"type": 3,
+			"api": "./py/91rb.py",
+			"changeable": 1
+		},
+		{
+			"key": "DSYS",
+			"name": "🔞DSYS",
+			"type": 3,
+			"api": "./py/DSYS.py",
+			"changeable": 1
+		},
+		{
+			"key": "lav",
+			"name": "🔞lav",
+			"type": 3,
+			"api": "./py/lav.py",
+			"changeable": 1
+		},
+		{
+			"key": "色播聚合",
+			"name": "🔞色播聚合",
+			"type": 3,
+			"api": "./py/色播聚合.py",
+			"changeable": 1
+		},
+		{
+			"key": "一个区",
+			"name": "🔞一个区",
+			"type": 3,
+			"api": "./py/一个区.py",
+			"changeable": 1
+		},
+		{
+			"key": "九个区",
+			"name": "🔞九个区",
+			"type": 3,
+			"api": "./py/九个区.py",
+			"changeable": 1
+		},
+		{
 			"key": "香蕉视频",
 			"name": "🔞香蕉视频",
 			"type": 3,
@@ -326,10 +308,28 @@
 			"changeable": 1
 		},
 		{
-			"key": "骚火影视",
-			"name": "骚火影视",
+			"key": "js_madou",
+			"name": "🔞麻豆(js)",
 			"type": 3,
-			"api": "./py/骚火影视.py",
+			"api": "./js/麻豆.min.js",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0,
+			"changeable": 0,
+			"ext": {}
+		},
+		{
+			"key": "小红薯",
+			"name": "🔞小红薯",
+			"type": 3,
+			"api": "./py/小红薯.py",
+			"changeable": 1
+		},
+		{
+			"key": "推特",
+			"name": "🔞推特",
+			"type": 3,
+			"api": "./py/推特.py",
 			"changeable": 1
 		}
 	],
