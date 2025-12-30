@@ -61,10 +61,10 @@
 			"api": "http://zhangqun1818.serv00.net/aigua1.php"
 		},
 		{
-			"key": "旺旺短剧",
-			"name": "旺旺短剧",
-			"type": 1,
-			"api": "http://zhangqun1818.serv00.net/ww.php"
+			"key": "聚合短剧",
+			"name": "聚合短剧",
+			"type": 4,
+			"api": "http://zhangqun1818.serv00.net:6628/?spider=%E8%81%9A%E5%90%88%E7%9F%AD%E5%89%A7"
 		},
 		{
 			"key": "克隆合集",
