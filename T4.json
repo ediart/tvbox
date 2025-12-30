@@ -55,22 +55,58 @@
 			"api": ".https://py.doube.eu.org/static/v2/spider?site=2a7cc0edf96108c9d57420ff57c654c6"
 		},
 		{
-			"key": "文件播放",
-			"name": "文件播放",
+			"key": "爱瓜TV",
+			"name": "爱瓜TV",
 			"type": 4,
-			"api": "http://139.185.42.4:14888/TV/lives.php"
+			"api": "http://zhangqun1818.serv00.net/aigua1.php"
 		},
 		{
-			"key": "py集合",
-			"name": "py集合",
+			"key": "旺旺短剧",
+			"name": "旺旺短剧",
+			"type": 1,
+			"api": "http://zhangqun1818.serv00.net/ww.php"
+		},
+		{
+			"key": "克隆合集",
+			"name": "克隆合集",
+			"type": 4,
+			"api": "http://zhangqun1818.serv00.net/klhj.php"
+		},
+		{
+			"key": "采集集合",
+			"name": "采集集合",
+			"type": 4,
+			"api": "http://zhangqun1818.serv00.net/cj/cjjh.php"
+		},
+		{
+			"key": "js集合",
+			"name": "js集合",
+			"type": 4,
+			"api": "http://zhangqun1818.serv00.net/js.php"
+		},
+		{
+			"key": "php集合",
+			"name": "php集合",
+			"type": 4,
+			"api": "http://zhangqun1818.serv00.net/php.php"
+		},
+		{
+			"key": "python集合",
+			"name": "python集合",
 			"type": 4,
 			"api": "http://zhangqun1818.serv00.net/py.php"
 		},
 		{
-			"key": "php在线",
-			"name": "php在线",
+			"key": "影视文件播放",
+			"name": "影视文件播放",
 			"type": 4,
-			"api": "http://zhangqun1818.serv00.net/php.php"
+			"api": "http://zhangqun1818.serv00.net/zh/2242.php"
+		},
+		{
+			"key": "清单播放",
+			"name": "清单播放",
+			"type": 4,
+			"api": "http://zhangqun1818.serv00.net/zh/2243.php"
 		},
 		{
 			"api": "https://learnpython.ggff.net/2BT",
