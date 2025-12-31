@@ -1,5 +1,5 @@
 {
-	"spider": "./yt.jar",
+	"spider": "",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"sites": [{
 			"key": "js_douban",
