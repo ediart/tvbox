@@ -21,8 +21,20 @@
 			"changeable": 0
 		},
 		{
+            "key": "采集合集py",
+            "name": "采集合集(py)",
+            "type": 3,
+            "api": "./py/采集合集.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "playerType": 2,
+            "ext": "0"
+        },
+		{
 			"key": "好莱坞",
-			"name": "好莱坞",
+			"name": "好莱坞(py)",
 			"type": 3,
 			"api": "./py/好莱坞.py",
 			"searchable": 1,
@@ -32,7 +44,7 @@
 		},
 		{
 			"key": "LIBVIO",
-			"name": "LIBVIO",
+			"name": "LIBVIO(py)",
 			"type": 3,
 			"api": "./py/LIBVIO.py",
 			"searchable": 1,
