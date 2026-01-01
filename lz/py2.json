@@ -4,10 +4,10 @@
 			"key": "js_douban",
 			"name": "豆瓣(js)",
 			"type": 3,
-			"api": "./douban_min.js",
+			"api": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/路飞豆瓣.js",
 			"searchable": 0,
 			"quickSearch": 0,
-			"filterable": 1,
+			"filterable": 0,
 			"changeable": 0
 		},
 		{
