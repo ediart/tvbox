@@ -292,6 +292,31 @@
 			}
 		},
 		{
+			"key": "mogg_jx",
+			"name": "木偶JX | 4K",
+			"type": 3,
+			"api": "csp_XY4K",
+			"jar": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/JX.webp",
+			"ext": "YUhSMGNEb3ZMekV4TVM0eE56QXVNVFV4TGpFeU1Ub3lNekl6TDJGd2FTNXdhSEEvYzJsMFpUMXNZV0pwSXlNamJHRmlhUT09",
+			"categories": ["木偶电影", "木偶剧集", "木偶动漫", "木偶短剧", "木偶纪录片"],
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "erxiao_jx",
+			"name": "二小JX | 4K",
+			"type": 3,
+			"api": "csp_XY4K",
+			"jar": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/JX.webp",
+			"ext": "YUhSMGNEb3ZMekV4TVM0eE56QXVNVFV4TGpFeU1Ub3lNekl6TDJGd2FTNXdhSEEvYzJsMFpUMWxjbmhwWVc4akl5TmxjbmhwWVc4PQ==",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1
+		},
+		{
 			"key": "panso",
 			"name": "盘搜 | 4K",
 			"type": 4,
