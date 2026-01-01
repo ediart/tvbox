@@ -46,7 +46,7 @@ class Spider(Spider):
         threading.Thread(target=self._silent_gc, daemon=True).start()
 
         # 加载站点配置
-        default_path = "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/cj.json"
+        default_path = "https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/cj.json"
         self.mode = "0" 
         json_path = default_path
 
