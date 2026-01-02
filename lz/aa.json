@@ -79,18 +79,6 @@
 			"changeable": 1
 		},
 		{
-			"key": "文件播放",
-			"name": "文件播放",
-			"type": 4,
-			"api": "http://139.185.42.4:14888/TV/lives.php",
-			"searchable": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-		{
 			"key": "wv_ddys",
 			"name": "wv | 低端影视",
 			"api": "csp_WvSpider",
