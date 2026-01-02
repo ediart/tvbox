@@ -289,25 +289,19 @@
 			"url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/epl_nba.m3u"
 		},
 		{
-			"name": "JackTV",
+			"name": "Jacktv",
 			"url": "https://php.946985.filegear-sg.me/jackTV.m3u"
-		},
-		{
-			"name": "MyTvSuper",
-			"url": "http://xtvantsc.xyz/mytv.m3u"
-		},
-		{
-			"name": "4GTV",
-			"url": "http://xtvantsc.xyz/litv_ts.php",
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 		{
 			"name": "catvod",
 			"url": "https://iptv.catvod.com/tv.m3u"
 		},
 		{
-			"name": "Smart",
+			"name": "SMT-muchen",
+			"url": "https://tv.ediart.ggff.net/smt"
+		},
+		{
+			"name": "SMT-catvod",
 			"url": "https://live.catvod.com/tv.m3u"
 		}
 	],
