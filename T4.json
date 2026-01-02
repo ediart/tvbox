@@ -217,8 +217,20 @@
 			"url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/epl_nba.m3u"
 		},
 		{
-			"name": "JackTV",
+			"name": "Jacktv",
 			"url": "https://php.946985.filegear-sg.me/jackTV.m3u"
+		},
+		{
+			"name": "catvod",
+			"url": "https://iptv.catvod.com/tv.m3u"
+		},
+		{
+			"name": "SMT-muchen",
+			"url": "https://tv.ediart.ggff.net/smt"
+		},
+		{
+			"name": "SMT-catvod",
+			"url": "https://live.catvod.com/tv.m3u"
 		},
 		{
 			"name": "MyTvSuper",
