@@ -291,42 +291,6 @@
 			}
 		},
 		{
-			"key": "labi_bh",
-			"name": "蜡笔BH | 4K",
-			"type": 3,
-			"api": "csp_HBT4",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qVTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXNZV0pwSXlNamJHRmlhUT09",
-			"jar": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/banhu.webp"
-		},
-		{
-			"key": "ouge_bh",
-			"name": "讴歌BH | 4K",
-			"type": 3,
-			"api": "csp_HBT4",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXZkV2RsSXlNamIzVm5aUT09",
-			"jar": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/banhu.webp"
-		},
-		{
-			"key": "zhizhen_bh",
-			"name": "至臻BH | 4K",
-			"type": 3,
-			"api": "csp_HBT4",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXRhV2hrY2lNakkyMXBhR1J5",
-			"jar": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/banhu.webp"
-		},
-		{
 			"key": "panso",
 			"name": "盘搜 | 4K",
 			"type": 4,
