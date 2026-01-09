@@ -313,6 +313,18 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png",
 			"timeout": 10
+		},
+		{
+			"name": "🔞madou",
+			"url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/madou.m3u"
+		},
+		{
+			"name": "🔞秘密花园",
+			"type": 0,
+			"url": "https://down.nigx.cn/mmhy.zzong6599.workers.dev",
+			"playerType": 1,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
 		}
 	],
 	"headers": [{
