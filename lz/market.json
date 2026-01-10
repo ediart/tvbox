@@ -25,6 +25,24 @@
 			"version": "py-v8a"
 		},
 		{
+			"name": "OK PRO 64位手机版",
+			"url": "https://pan.celin.indevs.in/webdav/OK客户端/OK影视Pro-手机版.apk",
+			"icon": "https://d.dayeapp.net/y.jpg",
+			"version": "py-v8a"
+		},
+		{
+			"name": "OK PRO 32位电视版",
+			"url": "https://pan.celin.indevs.in/webdav/OK客户端/OK影视Pro-电视版-32位.apk",
+			"icon": "https://d.dayeapp.net/y.jpg",
+			"version": "py-v7a"
+		},
+		{
+			"name": "OK PRO 64位电视版",
+			"url": "https://pan.celin.indevs.in/webdav/OK客户端/OK影视Pro-电视版-64位.apk",
+			"icon": "https://d.dayeapp.net/y.jpg",
+			"version": "py-v8a"
+		},
+		{
 			"name": "FM影视32位手机版",
 			"url": "https://pan.celin.indevs.in/webdav/FM客户端/mobile-armeabi_v7a.apk",
 			"icon": "https://d.dayeapp.net/y.jpg",
@@ -50,3 +68,4 @@
 		}
 	]
 }]
+
