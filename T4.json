@@ -98,15 +98,15 @@
 			"api": "http://zhangqun1818.serv00.net/zh/2243.php"
 		},
 		{
-			"api": "https://learnpython.ggff.net/4K",
-			"key": "4K",
-			"name": "4K养老",
+			"api": "https://learnpython.ggff.net/7WJ",
+			"key": "7WJ",
+			"name": "7WJ",
 			"type": 4
 		},
 		{
-			"api": "https://learnpython.ggff.net/4KFS",
-			"key": "4KFS",
-			"name": "4KFS",
+			"api": "https://learnpython.ggff.net/4K",
+			"key": "4KAV",
+			"name": "4KAV",
 			"type": 4
 		},
 		{
@@ -183,7 +183,7 @@
 			"searchable": 0,
 			"changeable": 0,
 			"ext": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/market.json",
-		    "jar": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/fm.jar"
+			"jar": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/fm.jar"
 		}
 	],
 	"lives": [{
