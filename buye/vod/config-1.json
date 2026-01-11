@@ -44,38 +44,32 @@
 		{
 			"key": "labi",
 			"name": "蜡笔",
-			"url": "http://www.labi88.sbs",
-            "filters": "https://down.nigx.cn/raw.githubusercontent.com/vodspider/release/main/filters/labi.json"
+			"url": "http://www.labi88.sbs"
 		},
 		{
 			"key": "zhizhen",
 			"name": "至臻",
-			"url": "https://mihdr.top",
-            "filters": "https://down.nigx.cn/raw.githubusercontent.com/vodspider/release/main/filters/zhizhen.json"
+			"url": "https://mihdr.top"
 		},
 		{
 			"key": "huban",
 			"name": "虎斑",
-			"url": "http://103.45.162.207:20720",
-            "filters": "https://down.nigx.cn/raw.githubusercontent.com/vodspider/release/main/filters/huban.json"
+			"url": "http://103.45.162.207:20720"
 		},
 		{
 			"key": "ouge",
 			"name": "讴歌",
-			"url": "https://woog.nxog.eu.org",
-            "filters": "https://down.nigx.cn/raw.githubusercontent.com/vodspider/release/main/filters/ouge.json"
+			"url": "https://woog.nxog.eu.org"
 		},
 		{
 			"key": "erxiao",
 			"name": "二小",
-			"url": "https://erxiaofn.click",
-            "filters": "https://down.nigx.cn/raw.githubusercontent.com/vodspider/release/main/filters/erxiao.json"
+			"url": "https://erxiaofn.click"
 		},
 		{
 			"key": "kuaiyin",
 			"name": "快映",
-			"url": "http://xsayang.fun:12512",
-            "filters": "https://down.nigx.cn/raw.githubusercontent.com/vodspider/release/main/filters/kuaiyin.json"
+			"url": "http://xsayang.fun:12512"
 		}
 	],
 	"tgclient": {
