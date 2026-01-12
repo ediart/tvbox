@@ -284,7 +284,7 @@
 			"timeout": 10
 		},
 		{
-			"name": "备用直播三+",
+			"name": "IPTV Pro+",
 			"type": 0,
 			"url": "https://down.nigx.cn/raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro",
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
