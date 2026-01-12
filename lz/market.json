@@ -31,6 +31,12 @@
 			"version": "py-v8a"
 		},
 		{
+			"name": "OK PRO 64位模拟器版",
+			"url": "https://pan.ediart.ggff.net/webdav/OK客户端/OK影视Pro-手机版-模拟器.apk",
+			"icon": "https://d.dayeapp.net/y.jpg",
+			"version": "py-v8a"
+		},
+		{
 			"name": "OK PRO 32位电视版",
 			"url": "https://pan.ediart.ggff.net/webdav/OK客户端/OK影视Pro-电视版-32位.apk",
 			"icon": "https://d.dayeapp.net/y.jpg",
@@ -68,5 +74,6 @@
 		}
 	]
 }]
+
 
 
