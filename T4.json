@@ -285,7 +285,6 @@
 		},
 		{
 			"name": "IPTV Pro+",
-			"type": 0,
 			"url": "https://down.nigx.cn/raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro",
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
