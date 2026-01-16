@@ -19,7 +19,8 @@
 			"jar": "http://123.118.105.216:5678/tvbox/libs/xiaoya_proxy.jar",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
+			"changeable": 1,
 			"ext": [{
 					"name": "丫仙女",
 					"server": "http://123.118.105.216:5678/",
