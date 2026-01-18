@@ -50,12 +50,6 @@
 			"type": 4
 		},
 		{
-			"api": "https://tvbot.dpdns.org/py_jinpai.py",
-			"key": "嗷呜金牌影院",
-			"name": "嗷呜金牌影院",
-			"type": 3
-		},
-		{
 			"api": "https://newtv.ggff.net/jubaba?token=P69Phb_y",
 			"key": "嗷呜剧爸爸",
 			"name": "嗷呜剧爸爸",
