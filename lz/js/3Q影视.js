@@ -40,7 +40,6 @@ async function home(filter) {
         'type_name': i.type_name
     }));
 
-    // 移植筛选配置
     const filterConfig = {
         "电影": [
             { key: "class", name: "类型", value: [ {n:"全部",v:""}, {n:"动作",v:"动作"}, {n:"喜剧",v:"喜剧"}, {n:"爱情",v:"爱情"}, {n:"科幻",v:"科幻"}, {n:"恐怖",v:"恐怖"}, {n:"悬疑",v:"悬疑"}, {n:"犯罪",v:"犯罪"}, {n:"战争",v:"战争"}, {n:"动画",v:"动画"}, {n:"冒险",v:"冒险"}, {n:"历史",v:"历史"}, {n:"灾难",v:"灾难"}, {n:"纪录",v:"纪录"}, {n:"剧情",v:"剧情"} ] },
@@ -104,7 +103,6 @@ async function detail(id) {
     let data = json.data[0];
     let vodplayer = json.vodplayer;
 
-    // 站外聚合解析逻辑
     let aggregateUrl = `${host}/api.php/internal/search_aggregate?vod_id=${id}`;
     let aggResp = await req(aggregateUrl, { headers: headers });
     let aggJson = JSON.parse(aggResp.content);
@@ -147,7 +145,6 @@ async function detail(id) {
         }
     }
 
-    // 合并站外资源
     if (aggJson && aggJson.data) {
         aggJson.data.forEach(item => {
             if (!shows.includes(item.site_name) && item.vod_play_url) {
@@ -254,3 +251,4 @@ export function __jsEvalReturn() {
         play: play
     };
 }
+
