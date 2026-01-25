@@ -345,12 +345,6 @@
 			"type": 4
 		},
 		{
-			"key": "T4-yinyue5",
-			"name": "🎵大全｜音乐",
-			"type": 4,
-			"api": "https://catbox.n13.club/t9/yinyue5.php"
-		},
-		{
 			"key": "T4-qingting",
 			"name": "🎵蜻蜓｜电台",
 			"type": 4,
