@@ -1,14 +1,9 @@
 {
 	"spider": "https://xn--fjq53n.xyz/Ting/jar/Lge.jar",
-	"sites": [{
-			"key": "wyy",
-			"name": "🎵网易云｜音乐",
-			"type": 4,
-			"api": "http://vps.9yidc.cn:25555/alger.php/provide/vod"
-		},
+	"sites": [
 		{
-			"key": "wyy2",
-			"name": "🎵网易云1｜音乐",
+			"key": "163music",
+			"name": "🎵网易云｜音乐",
 			"type": 4,
 			"api": "http://114.66.51.127:8728/Nathan/wyy.php"
 		},
@@ -235,3 +230,4 @@
 		}
 	]
 }
+
