@@ -327,6 +327,24 @@
 			"api": "https://catbox.n13.club/t9/beilehu.php"
 		},
 		{
+			"key": "T4-qiertiyu",
+			"name": "体育-企鹅(T4)",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/qietiyu.php"
+		},
+		{
+			"key": "T4-360kq",
+			"name": "其他-看球(T4)",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/360kq.php"
+		},
+		{
+			"key": "T4-bookan",
+			"name": "🎵听书-博看(T4)",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/bookan.php"
+		},
+		{
 			"key": "T4-tangdou",
 			"name": "🎵音乐-糖豆(T4)",
 			"type": 4,
