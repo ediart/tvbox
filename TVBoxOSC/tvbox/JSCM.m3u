@@ -1319,9 +1319,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221225951/index.m3u8
 #EXTINF:-1,tvg-id="徐州电视台" tvg-name="徐州电视台" tvg-logo="https://epg.v1.mk/logo/徐州电视台.png" group-title="其他",徐州4
 http://ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8
-#EXTINF:-1,tvg-id="021新唐人亞太台" tvg-name="021新唐人亞太台" tvg-logo="https://epg.v1.mk/logo/021新唐人亞太台.png" group-title="其他",新沂1
+#EXTINF:-1,tvg-id="新沂1" tvg-name="新沂1" tvg-logo="https://epg.v1.mk/logo/新沂1.png" group-title="其他",新沂1
 http://ott.mobaibox.com/PLTV/4/224/3221227289/index.m3u8
-#EXTINF:-1,tvg-id="021新唐人亞太台" tvg-name="021新唐人亞太台" tvg-logo="https://epg.v1.mk/logo/021新唐人亞太台.png" group-title="其他",新沂2
+#EXTINF:-1,tvg-id="新沂2" tvg-name="新沂2" tvg-logo="https://epg.v1.mk/logo/新沂2.png" group-title="其他",新沂2
 http://ott.mobaibox.com/PLTV/4/224/3221227311/index.m3u8
 #EXTINF:-1,tvg-id="四川盐亭" tvg-name="四川盐亭" tvg-logo="https://epg.v1.mk/logo/四川盐亭.png" group-title="其他",盐城新闻
 http://ott.mobaibox.com/PLTV/4/224/3221228215/index.m3u8
@@ -1603,3 +1603,4 @@ http://ott.mobaibox.com/PLTV/3/224/3221227934/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221227949/index.m3u8
 #EXTINF:-1,tvg-id="江苏音乐广播" tvg-name="江苏音乐广播" tvg-logo="https://epg.v1.mk/logo/江苏4K.png" group-title="江苏",江苏音乐广播
 http://ott.mobaibox.com/PLTV/3/224/3221227949/index.m3u8
+
