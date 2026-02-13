@@ -413,6 +413,10 @@
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 		{
+			"name": "江苏移动",
+			"url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/JSCM.m3u"
+		},
+		{
 			"name": "Sports",
 			"url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/sports.m3u"
 		},
