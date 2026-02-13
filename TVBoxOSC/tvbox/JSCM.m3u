@@ -1295,13 +1295,13 @@ http://ott.mobaibox.com/PLTV/3/224/3221228212/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228100/index.m3u8
 #EXTINF:-1,tvg-id="泰州一套" tvg-name="泰州一套" tvg-logo="https://epg.v1.mk/logo/泰州一套.png" group-title="其他",泰州3
 http://ott.mobaibox.com/PLTV/3/224/3221228100/index.m3u8
-#EXTINF:-1,tvg-id="重庆铜梁" tvg-name="重庆铜梁" tvg-logo="https://epg.v1.mk/logo/重庆铜梁.png" group-title="其他",铜山1
+#EXTINF:-1,tvg-id="铜山1" tvg-name="铜山1" tvg-logo="https://epg.v1.mk/logo/铜山1.png" group-title="其他",铜山1
 http://ott.mobaibox.com/PLTV/4/224/3221228152/index.m3u8
-#EXTINF:-1,tvg-id="重庆铜梁" tvg-name="重庆铜梁" tvg-logo="https://epg.v1.mk/logo/重庆铜梁.png" group-title="其他",铜山2
+#EXTINF:-1,tvg-id="铜山2" tvg-name="铜山2" tvg-logo="https://epg.v1.mk/logo/铜山2.png" group-title="其他",铜山2
 http://ott.mobaibox.com/PLTV/4/224/3221228081/index.m3u8
-#EXTINF:-1,tvg-id="重庆铜梁" tvg-name="重庆铜梁" tvg-logo="https://epg.v1.mk/logo/重庆铜梁.png" group-title="其他",铜山3
+#EXTINF:-1,tvg-id="铜山3" tvg-name="铜山3" tvg-logo="https://epg.v1.mk/logo/铜山3.png" group-title="其他",铜山3
 http://ott.mobaibox.com/PLTV/4/224/3221228055/index.m3u8
-#EXTINF:-1,tvg-id="重庆铜梁" tvg-name="重庆铜梁" tvg-logo="https://epg.v1.mk/logo/重庆铜梁.png" group-title="其他",铜山4
+#EXTINF:-1,tvg-id="铜山4" tvg-name="铜山4" tvg-logo="https://epg.v1.mk/logo/铜山4.png" group-title="其他",铜山4
 http://ott.mobaibox.com/PLTV/4/224/3221228249/index.m3u8
 #EXTINF:-1,tvg-id="徐州电视台" tvg-name="徐州电视台" tvg-logo="https://epg.v1.mk/logo/徐州电视台.png" group-title="其他",徐州1
 http://ott.mobaibox.com/PLTV/4/224/3221225945/index.m3u8
@@ -1603,6 +1603,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227934/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221227949/index.m3u8
 #EXTINF:-1,tvg-id="江苏音乐广播" tvg-name="江苏音乐广播" tvg-logo="https://epg.v1.mk/logo/江苏音乐广播.png" group-title="江苏",江苏音乐广播
 http://ott.mobaibox.com/PLTV/3/224/3221227949/index.m3u8
+
 
 
 
