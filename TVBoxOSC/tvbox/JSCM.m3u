@@ -1185,11 +1185,11 @@ http://ott.mobaibox.com/PLTV/4/224/3221227385/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228323/index.m3u8
 #EXTINF:-1,tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://epg.v1.mk/logo/江苏城市.png" group-title="江苏",江苏城市
 http://ott.mobaibox.com/PLTV/4/224/3221225929/index.m3u8
-#EXTINF:-1,tvg-id="江苏4K" tvg-name="江苏4K" tvg-logo="https://epg.v1.mk/logo/江苏4K.png" group-title="江苏",江苏多屏
+#EXTINF:-1,tvg-id="江苏多屏" tvg-name="江苏多屏" tvg-logo="https://epg.v1.mk/logo/江苏多屏.png" group-title="江苏",江苏多屏
 http://ott.mobaibox.com/PLTV/4/224/3221227702/index.m3u8
-#EXTINF:-1,tvg-id="江苏4K" tvg-name="江苏4K" tvg-logo="https://epg.v1.mk/logo/江苏4K.png" group-title="江苏",江苏好享购物
+#EXTINF:-1,tvg-id="江苏好享购物" tvg-name="江苏好享购物" tvg-logo="https://epg.v1.mk/logo/江苏好享购物.png" group-title="江苏",江苏好享购物
 http://ott.mobaibox.com/PLTV/3/224/3221227570/index.m3u8
-#EXTINF:-1,tvg-id="江苏4K" tvg-name="江苏4K" tvg-logo="https://epg.v1.mk/logo/江苏4K.png" group-title="江苏",江苏好享购物
+#EXTINF:-1,tvg-id="江苏好享购物" tvg-name="江苏好享购物" tvg-logo="https://epg.v1.mk/logo/江苏好享购物.png" group-title="江苏",江苏好享购物
 http://ott.mobaibox.com/PLTV/3/224/3221227398/index.m3u8
 #EXTINF:-1,tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://epg.v1.mk/logo/江苏教育.png" group-title="江苏",江苏教育
 http://ott.mobaibox.com/PLTV/4/224/3221225923/index.m3u8
@@ -1599,8 +1599,9 @@ http://ott.mobaibox.com/PLTV/4/224/3221225925/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227984/index.m3u8
 #EXTINF:-1,tvg-id="江苏新闻广播" tvg-name="江苏新闻广播" tvg-logo="https://epg.v1.mk/logo/江苏新闻广播.png" group-title="江苏",江苏新闻广播
 http://ott.mobaibox.com/PLTV/3/224/3221227934/index.m3u8
-#EXTINF:-1,tvg-id="江苏音乐广播" tvg-name="江苏音乐广播" tvg-logo="https://epg.v1.mk/logo/江苏4K.png" group-title="江苏",江苏音乐广播
+#EXTINF:-1,tvg-id="江苏音乐广播" tvg-name="江苏音乐广播" tvg-logo="https://epg.v1.mk/logo/江苏音乐广播.png" group-title="江苏",江苏音乐广播
 http://ott.mobaibox.com/PLTV/4/224/3221227949/index.m3u8
-#EXTINF:-1,tvg-id="江苏音乐广播" tvg-name="江苏音乐广播" tvg-logo="https://epg.v1.mk/logo/江苏4K.png" group-title="江苏",江苏音乐广播
+#EXTINF:-1,tvg-id="江苏音乐广播" tvg-name="江苏音乐广播" tvg-logo="https://epg.v1.mk/logo/江苏音乐广播.png" group-title="江苏",江苏音乐广播
 http://ott.mobaibox.com/PLTV/3/224/3221227949/index.m3u8
+
 
