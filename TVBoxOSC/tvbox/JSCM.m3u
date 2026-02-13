@@ -1181,7 +1181,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221227389/index.m3u8
 #EXTINF:-1,tvg-id="贾汪新闻" tvg-name="贾汪新闻" tvg-logo="https://epg.v1.mk/logo/贾汪新闻.png" group-title="其他",贾汪新闻
 http://ott.mobaibox.com/PLTV/4/224/3221227385/index.m3u8
-#EXTINF:-1,tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://epg.v1.mk/logo/浙江钱江都市.png" group-title="其他",江都
+#EXTINF:-1,tvg-id="江都" tvg-name="江都" tvg-logo="https://epg.v1.mk/logo/江都.png" group-title="其他",江都
 http://ott.mobaibox.com/PLTV/4/224/3221228323/index.m3u8
 #EXTINF:-1,tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://epg.v1.mk/logo/江苏城市.png" group-title="江苏",江苏城市
 http://ott.mobaibox.com/PLTV/4/224/3221225929/index.m3u8
@@ -1603,5 +1603,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227934/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221227949/index.m3u8
 #EXTINF:-1,tvg-id="江苏音乐广播" tvg-name="江苏音乐广播" tvg-logo="https://epg.v1.mk/logo/江苏音乐广播.png" group-title="江苏",江苏音乐广播
 http://ott.mobaibox.com/PLTV/3/224/3221227949/index.m3u8
+
 
 
