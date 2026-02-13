@@ -1235,11 +1235,11 @@ http://ott.mobaibox.com/PLTV/3/224/3221227611/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227681/index.m3u8
 #EXTINF:-1,tvg-id="沛县新闻综合" tvg-name="沛县新闻综合" tvg-logo="https://epg.v1.mk/logo/沛县新闻综合.png" group-title="其他",沛县新闻
 http://ott.mobaibox.com/PLTV/3/224/3221227678/index.m3u8
-#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",邳州综合
+#EXTINF:-1,tvg-id="邳州综合" tvg-name="邳州综合" tvg-logo="https://epg.v1.mk/logo/邳州综合.png" group-title="其他",邳州综合
 http://ott.mobaibox.com/PLTV/4/224/3221227576/index.m3u8
-#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",邳州综合
+#EXTINF:-1,tvg-id="邳州综合" tvg-name="邳州综合" tvg-logo="https://epg.v1.mk/logo/邳州综合.png" group-title="其他",邳州综合
 http://ott.mobaibox.com/PLTV/3/224/3221227576/index.m3u8
-#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",邳州综艺
+#EXTINF:-1,tvg-id="邳州综艺" tvg-name="邳州综艺" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",邳州综艺
 http://ott.mobaibox.com/PLTV/3/224/3221227573/index.m3u8
 #EXTINF:-1,tvg-id="看苏州" tvg-name="看苏州" tvg-logo="https://epg.v1.mk/logo/看苏州.png" group-title="其他",苏州2
 http://ott.mobaibox.com/PLTV/4/224/3221227325/index.m3u8
@@ -1603,6 +1603,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227934/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221227949/index.m3u8
 #EXTINF:-1,tvg-id="江苏音乐广播" tvg-name="江苏音乐广播" tvg-logo="https://epg.v1.mk/logo/江苏音乐广播.png" group-title="江苏",江苏音乐广播
 http://ott.mobaibox.com/PLTV/3/224/3221227949/index.m3u8
+
 
 
 
