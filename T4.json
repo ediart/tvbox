@@ -452,14 +452,6 @@
 		{
 			"name": "🔞8108",
 			"url": "https://wget.la/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/8108部xxx.m3u"
-		},
-		{
-			"name": "🔞秘密花园",
-			"type": 0,
-			"url": "https://wget.la/mmhy.zzong6599.workers.dev",
-			"playerType": 1,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
 		}
 	],
 	"headers": [{
