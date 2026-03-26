@@ -1150,8 +1150,8 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/market.json",
-            "jar": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/fm.jar"
+            "ext": "https://wget.la/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/market.json",
+            "jar": "https://wget.la/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/fm.jar"
         }
     ],
     "lives": [
