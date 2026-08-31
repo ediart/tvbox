@@ -59,6 +59,42 @@
             "filterable": 0
         },
         {
+            "key": "爱看",
+            "name": "爱看 • APP",
+            "type": 3,
+            "api": "csp_AiKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://43.248.117.123:4680"
+        },
+        {
+            "key": "咕噜",
+            "name": "咕噜 • APP",
+            "type": 3,
+            "api": "csp_Gulu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "布布",
+            "name": "布布 • APP",
+            "type": 3,
+            "api": "csp_YunDuo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "host": "https://323433ssdfd.top",
+                "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
+                "aid": "com.web.player",
+                "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
+                "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
+                "sign": "ddtvf65f3a83d6d9ad6f"
+            }
+        },
+        {
             "key": "马猴影视",
             "name": "马猴 • APP",
             "type": 3,
@@ -681,7 +717,26 @@
                 "编码": "UTF-8",
                 "分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8",
                 "分类url": "https://www.mochadj.com/i/{cateId}-{catePg}.html"
-            }
+            },
+            "genre": "shortdrama"
+        },
+        {
+            "key": "世界影视",
+            "name": "世界 • 影视",
+            "type": 3,
+            "api": "csp_HkybSpider",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "壹壹影视",
+            "name": "壹壹 • 影视",
+            "type": 3,
+            "api": "csp_YiYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "瓜子影视",
