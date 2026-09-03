@@ -726,6 +726,58 @@
             }
         },
         {
+            "key": "迅雷云盘",
+            "name": "迅雷 • 云盘",
+            "type": 3,
+            "api": "csp_PanXunlei",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            }
+        },
+        {
+            "key": "光鸭网盘",
+            "name": "光鸭 • 网盘",
+            "type": 3,
+            "api": "csp_PanGuangya",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            }
+        },
+        {
+            "key": "天翼云盘",
+            "name": "天翼 • 云盘",
+            "type": 3,
+            "api": "csp_PanTianyi",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            }
+        },
+        {
+            "key": "123云盘",
+            "name": "123 • 云盘",
+            "type": 3,
+            "api": "csp_Pan123",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            }
+        },
+        {
             "key": "聚合",
             "name": "聚合 • 搜索",
             "type": 3,
