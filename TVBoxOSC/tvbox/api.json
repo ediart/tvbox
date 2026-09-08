@@ -1594,7 +1594,8 @@
             "api": "csp_Push",
             "searchable": 0,
             "filterable": 0,
-            "changeable": 0
+            "changeable": 0,
+            "hide": 1
         }
     ],
     "lives": [
