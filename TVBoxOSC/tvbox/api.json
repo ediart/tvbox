@@ -176,12 +176,12 @@
             "ext": {
                 "appName": "橘汁",
                 "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-                "dataKey": "OW1WBLFZCLJ0WTNJCDMYEGXWYVP3PT0=",
+                "dataKey": "OW1WBLFZCLJ0WTNJQMRSZ2DYSGNBPT0=",
                 "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
                 "pkg": "com.mxj.wylcjbxyx",
                 "host": "",
                 "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-                "version": "3.0.2.3",
+                "version": "3.0.2.4",
                 "decrypt": "1"
             }
         },
@@ -226,21 +226,6 @@
             }
         },
         {
-            "key": "怀桑",
-            "name": "怀桑 • APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "http://110.42.67.130:1226",
-                "dataKey": "kj37zs29q22jk96t",
-                "dataIv": "kj37zs29q22jk96t",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
-            }
-        },
-        {
             "key": "蓝鹰",
             "name": "蓝鹰 • APP",
             "type": 3,
@@ -268,22 +253,6 @@
                 "dataIv": "oW5UxZ5kWVr1DI69",
                 "init": "initV122",
                 "ua": "okhttp/3.10.0"
-            }
-        },
-        {
-            "key": "奇奇",
-            "name": "奇奇 • APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt",
-                "dataKey": "FTgP4Gq8zPiqbt7M",
-                "dataIv": "FTgP4Gq8zPiqbt7M",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0",
-                "search": "searchList8"
             }
         },
         {
